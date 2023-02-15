@@ -13,6 +13,7 @@ Description: A guide designed to get Minecraft set up and optimized for our serv
 * [Installing Fabric API and Mods](#installing-fabric-api-and-mods)
 * [(Optional) Installing Ferium](#optional-installing-ferium)
   * [Installing Scoop and Ferium for Windows](#installing-scoop-and-ferium-for-windows)
+  * [Configuring Ferium](#configuring-ferium)
 
 
 ## BUYING AND INSTALLING MINECRAFT
@@ -123,15 +124,45 @@ These mods listed above help with gameplay performance. The base game of Minecra
 These mods especially give a boost to those on 'Low-End' hardware.
 
 ## (OPTIONAL) INSTALLING FERIUM 
-Ferium is a simple and easy to use command line based tool to manage mods for Minecraft. Namely, keeping them up to date instantly.
+Ferium is a simple and easy to use command line based tool to manage mods for Minecraft. Namely, keeping them up to date instantly. If you have a similar tool, feel free to ignore this section.
 
 #### INSTALLING SCOOP AND FERIUM FOR WINDOWS
-7a) Open a Windows Powershell (v5.1+) window. And run `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser`. This is to make Windows run a remote script for the first time.
+7a) Open a Windows Powershell (v5.1+) window. And run `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser`. This is to make Windows run a remote script for the first time. Feel free to copy and paste the commands in.
 
-7b) Then run `irm get.scoop.sh | iex` to download and install scoop.
+7b) Then run `irm get.scoop.sh | iex` to download and install Scoop.
 
 7c) Run `scoop bucket add games` to create a games bucket for ferium. It may bring up a prompt to install git and a command to do so. Enter the git install command and try the games bucket command again.
 
 7d) Then run `scoop install ferium` to install ferium on your device. Ferium is now installed!
 
 #### CONFIGURING FERIUM
+
+7e) Create a new profile by running `ferium profile create` in the powershell terminal. 
+
+7f) Configure as follow
+*  >Would you like to specify a custom mods directory? (n)
+*  >What should this profile be called? `1.19-1.20 Minecraft Mods`
+*  >1.19.3 
+*(Use arrow keys to choose if not highlighted in blue, then press enter)*
+ * >Which mod loader do you use? Fabric 
+*(Use arrow keys to choose if not highlighted in blue, then press enter)*
+
+
+⚠️ To find a project id on Modrinth, scroll down on the left-hand sidebar containing the featured versions and technical info. Scroll until you find  `project id` below the technical info. Clicking on the id will copy and paste it to your clipboard, for easy copying into the terminal.
+
+7g) Add mods using `ferium add <project id>`. For example, if you wanted to add Sodium to your mods profile, do `ferium add AANobbMI`.
+
+⬇️If you are following the mods listed on this guide, here are the ids.
+
+Fabric API - `gvQqBUqZ`
+Sodium - `AANobbMI`
+Lithium - `gvQqBUqZ`
+Phosphor - `hEOCdOgW`
+Iris Shaders - `YL57xq9U`
+FerriteCore - `uXXizFIs`
+LazyDFU - `hvFnDODi`
+
+7h) Once finished adding the project ids into Ferium, put in `ferium upgrade` to download your mods into the mods folder. You also use this command to update your mods too. So do it every so often. It only takes a few seconds, by opening the terminal and typing this in, compared to manually looking on the mod pages themselves.
+
+
+
