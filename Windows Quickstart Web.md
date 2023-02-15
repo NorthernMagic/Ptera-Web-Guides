@@ -11,13 +11,14 @@ Description: A guide designed to get Minecraft set up and optimized for our serv
 * [(Recommended) Installing Java JDK](#recommended-download-java-jdk)
 * [Installing Fabric](#installing-fabric)
 * [Installing Fabric API and Mods](#installing-fabric-api-and-mods)
+* [(Optional) Installing Ferium](#optional-installing-ferium)
 
 
 ## BUYING AND INSTALLING MINECRAFT
 
 If you don't have Minecraft at all, you need to install it. Before, you had to choose between Java (Recommended) and Bedrock Edition. Thankfully you can buy both versions for $30 USD. But we still recommend using the Java Edition when logging into the server, as it's natively supported.
 
-1a) To buy Minecraft for Windows 10 click this [link](https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc).
+1a) To buy Minecraft for Windows click this [link](https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc).
 
 1b) Register your payment information (credit card). Once filled out, and bought, click 'Download for Windows'. The Minecraft Launcher will download onto your Windows PC.
 
@@ -57,7 +58,7 @@ Time to join the server! This is pretty easy and seamless
 
 ⚠️ If you get an error saying you aren't on the whitelist, DM a moderator and they will get things sorted out. Try to rejoin after that.
 
-### ✅ You have everything needed to join our server. We highly recommend installing some mods to improve Minecraft's performance. 
+### ✅ You have everything needed to join our server. We highly recommend installing some mods to improve Minecraft's performance. You can end here, but follow sections 4+ to install mods if you'd like.
 
 
 
@@ -95,12 +96,31 @@ Fabric is lightweight and is blossoming with new mods everyday. Most of us here 
 
 Fabric API is a library that provides essential hooks and interoperability tools for Fabric mods. It helps ensure that different mods can work together seamlessly and without issues. It's highly recommended to install this to use many mods. To begin, make sure the Minecraft Launcher is closed.
 
-You can download Fabric API here
+You can download Fabric API [here](https://modrinth.com/mod/fabric-api)
 
-6a) Once you've downloaded the Fabric API (0.73.2) (as of writing) for 1.19.3 .jar file, move it to your desktop for easy access.
+⚠️ We are using modrinth as our mod download site. Its clean and easy to use. In the picture below, make sure the Minecraft version matches 1.19.3. The featured versions usually have the latest builds for each version.
 
-6b) Then, open File Explorer and navigate to the 'mods' folder located at C:\Users\<user>\AppData\Roaming\.minecraft\mods. This is where you'll install the Fabric API and any other mods you want to use. If there is no 'mods' folder, create one.
+![image](https://user-images.githubusercontent.com/116324840/219203266-344f8658-c7f0-4f48-a61e-dcb60388c857.png)
+
+
+6a) Once you've downloaded the Fabric API **(0.73.4)** for 1.19.3 .jar file, move it to your desktop for easy access.
+
+6b) Then, open File Explorer and navigate to the 'mods' folder located at **C:\Users\<user>\AppData\Roaming\.minecraft\mods.** This is where you'll install the Fabric API and any other mods you want to use. If there is no 'mods' folder, create one.
 
 6c) To install the Fabric API, simply drag the .jar file from your desktop and drop it into the 'mods' folder. Once the file has been transferred, you can close File Explorer. The Fabric API is now installed! This drag and drop process works with most mods.
+
+6d) Download the mods listed below. There are compatible with our server and improve Minecraft's performance drastically. Drag them into the 'mods' folder like you did with the Fabric API.
+
+* [Sodium](https://modrinth.com/mod/sodium)
+* [Lithium](https://modrinth.com/mod/lithium)
+* [Phosphor](https://modrinth.com/mod/phosphor)
+* [Iris Shaders](https://modrinth.com/mod/iris)
+* [FerriteCore](https://modrinth.com/mod/ferrite-core)
+* [LazyDFU](https://modrinth.com/mod/lazydfu)
+
+These mods listed above help with gameplay performance. The base game of Minecraft isn't that optimized, so these mods will help increase performance. 
+These mods especially give a boost to those on 'Low-End' hardware.
+
+## (OPTIONAL) INSTALLING FERIUM
 
 
