@@ -5,11 +5,15 @@ Description: A guide designed to get Minecraft set up and optimized for our serv
 
 ## 📖TABLE OF CONTENTS
 
-* [💵BUYING & INSTALLING MINECRAFT](#buying-and-installing-minecraft)
+* [Buying and Installing Minecraft](#buying-and-installing-minecraft)
+* [Allocating Memory/RAM](#allocating-memory-to-minecraft)
+* [Joining The Server](#joining-the-server)
+* [(Recommended) Installing Java JDK](#recommended-download-java-jdk)
+* [Installing Fabric](#installing-fabric)
+* [Installing Fabric API and Mods](#installing-fabric-api-and-mods)
 
 
-
-## Buying and Installing Minecraft
+## BUYING AND INSTALLING MINECRAFT
 
 If you don't have Minecraft at all, you need to install it. Before, you had to choose between Java (Recommended) and Bedrock Edition. Thankfully you can buy both versions for $30 USD. But we still recommend using the Java Edition when logging into the server, as it's natively supported.
 
@@ -21,7 +25,7 @@ If you don't have Minecraft at all, you need to install it. Before, you had to c
 
 1d) Click 'Play', the launcher will download the game files to your device and launch into the title screen. Once launched into the title screen, close the game by pressing 'Quit'. 
 
-## 🧠ALLOCATING MEMORY
+## ALLOCATING MEMORY TO MINECRAFT 
 
 This section will be referenced multiple times. If you are seeing this section for the first time, we will be increasing the amount of RAM or memory to increase Minecraft's performance.  
 
@@ -37,7 +41,7 @@ Allocating more than half of it is generally a bad idea. So for example if you h
 
 2d) Once comfortable with allocating the amount of RAM you want, change the number between the x and the G to it. Click 'Save' and Go to the 'Play' tab. 
 
-## 👋JOINING THE SERVER
+## JOINING THE SERVER
 
 Time to join the server! This is pretty easy and seamless
 
@@ -57,7 +61,7 @@ Time to join the server! This is pretty easy and seamless
 
 
 
-## ☕(OPTIONAL) DOWNLOAD JAVA JDK
+## (RECOMMENDED) DOWNLOAD JAVA JDK
 
 Minecraft comes with its own standalone version of Java pre-installed. But I recommend installing it anyway as it doesn't hurt and some mod loaders need Java installed. Installing Java takes little time to do.
 
@@ -69,7 +73,7 @@ Minecraft comes with its own standalone version of Java pre-installed. But I rec
 
 4c) To install Java, simply follow the instructions in the installer by clicking "Next" a few times. Java will then install. Once the installation is complete, you can close the installer. Java is ready.
 
-## 🧶INSTALLING FABRIC
+## INSTALLING FABRIC
 
 Fabric is lightweight and is blossoming with new mods everyday. Most of us here actually use Fabric as our primary loader. Before you install Fabric, make sure to close the Minecraft Launcher. Fabric won't install if it's still open.
 
@@ -87,7 +91,7 @@ Fabric is lightweight and is blossoming with new mods everyday. Most of us here 
 
 5e) After allocating RAM, launch Fabric and go if you are in the title screen, Fabric is now installed correctly.
 
-## ⛓️INSTALLING FABRIC API & MODS
+## INSTALLING FABRIC API AND MODS
 
 Fabric API is a library that provides essential hooks and interoperability tools for Fabric mods. It helps ensure that different mods can work together seamlessly and without issues. It's highly recommended to install this to use many mods. To begin, make sure the Minecraft Launcher is closed.
 
