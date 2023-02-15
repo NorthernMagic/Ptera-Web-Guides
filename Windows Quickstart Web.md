@@ -3,6 +3,11 @@ Title: Windows 10/11 Quickstart Guide
 Description: A guide designed to get Minecraft set up and optimized for our server.
 ---
 
+## 📖TABLE OF CONTENTS
+
+* [💵BUYING & INSTALLING MINECRAFT](💵BUYING-&-INSTALLING-MINECRAFT)
+
+
 ## 💵BUYING & INSTALLING MINECRAFT
 
 If you don't have Minecraft at all, you need to install it. Before, you had to choose between Java (Recommended) and Bedrock Edition. Thankfully you can buy both versions for $30 USD. But we still recommend using the Java Edition when logging into the server, as it's natively supported.
@@ -55,7 +60,7 @@ Time to join the server! This is pretty easy and seamless
 
 Minecraft comes with its own standalone version of Java pre-installed. But I recommend installing it anyway as it doesn't hurt and some mod loaders need Java installed. Installing Java takes little time to do.
 
-You can download Java 17.0.6 [here](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+⬇️You can download Java 17.0.6 [here](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 
 4a) To begin the installation process, go to the Java download page. This will take you to Oracle's website, where you can download Java from the official source. Oracle is the company that develops and maintains Java.
 
@@ -67,7 +72,7 @@ You can download Java 17.0.6 [here](https://www.oracle.com/java/technologies/jav
 
 Fabric is lightweight and is blossoming with new mods everyday. Most of us here actually use Fabric as our primary loader. Before you install Fabric, make sure to close the Minecraft Launcher. Fabric won't install if it's still open.
 
-You can download Fabric [here](https://fabricmc.net/use/installer/)
+⬇️You can download Fabric [here](https://fabricmc.net/use/installer/)
 
 5a) On the Fabric download page, you'll see two options: 'Download for Windows' or ' Download Universal Jar'. Click 'Download For Windows'.
 
@@ -82,4 +87,15 @@ You can download Fabric [here](https://fabricmc.net/use/installer/)
 5e) After allocating RAM, launch Fabric and go if you are in the title screen, Fabric is now installed correctly.
 
 ## ⛓️INSTALLING FABRIC API & MODS
+
+Fabric API is a library that provides essential hooks and interoperability tools for Fabric mods. It helps ensure that different mods can work together seamlessly and without issues. It's highly recommended to install this to use many mods. To begin, make sure the Minecraft Launcher is closed.
+
+You can download Fabric API here
+
+6a) Once you've downloaded the Fabric API (0.73.2) (as of writing) for 1.19.3 .jar file, move it to your desktop for easy access.
+
+6b) Then, open File Explorer and navigate to the 'mods' folder located at C:\Users\<user>\AppData\Roaming\.minecraft\mods. This is where you'll install the Fabric API and any other mods you want to use. If there is no 'mods' folder, create one.
+
+6c) To install the Fabric API, simply drag the .jar file from your desktop and drop it into the 'mods' folder. Once the file has been transferred, you can close File Explorer. The Fabric API is now installed! This drag and drop process works with most mods.
+
 
