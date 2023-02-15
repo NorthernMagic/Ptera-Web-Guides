@@ -13,7 +13,7 @@ If you don't have Minecraft at all, you need to install it. Before, you had to c
 
 🔴 Click 'Play', the launcher will download the game files to your device and launch into the title screen. Once launched into the title screen, close the game by pressing 'Quit'. 
 
-**Allocating RAM**
+**ALLOCATING RAM**
 
 This section will be referenced multiple times. If you are seeing this section for the first time, we will be increasing the amount of RAM or memory to increase Minecraft's performance.  
 
@@ -29,7 +29,7 @@ This section will be referenced multiple times. If you are seeing this section f
 
 🔴 Once comfortable with allocating the amount of RAM you want, change the number between the x and the G to it. Click 'Save' and Go to the 'Play' tab. 
 
-JOINING THE SERVER
+**JOINING THE SERVER**
 
 Time to join the server! This is pretty easy and seamless
 
@@ -47,7 +47,7 @@ Time to join the server! This is pretty easy and seamless
 
 🟩 You have everything needed to join our server. We highly recommend installing some mods to improve Minecraft's performance.
 
-(OPTIONAL) DOWNLOAD JAVA JDK
+**(OPTIONAL) DOWNLOAD JAVA JDK**
 
 Minecraft comes with its own standalone version of Java pre-installed. But I recommend installing it anyway as it doesn't hurt and some mod loaders need Java installed. Installing Java takes little time to do.
 
@@ -57,7 +57,7 @@ Minecraft comes with its own standalone version of Java pre-installed. But I rec
 
 🔴To install Java, simply follow the instructions in the installer by clicking "Next" a few times. Java will then install. Once the installation is complete, you can close the installer. Java is ready.
 
-INSTALLING FABRIC
+**INSTALLING FABRIC**
 
 Fabric is lightweight and is blossoming with new mods everyday. Most of us here actually use Fabric as our primary loader. Before you install Fabric, make sure to close the Minecraft Launcher. Fabric won't install if it's still open.
 
