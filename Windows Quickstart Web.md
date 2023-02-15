@@ -5,10 +5,11 @@ Description: A guide designed to get Minecraft set up and optimized for our serv
 
 ## 📖TABLE OF CONTENTS
 
-* [💵BUYING & INSTALLING MINECRAFT](💵BUYING-&-INSTALLING-MINECRAFT)
+* [💵BUYING & INSTALLING MINECRAFT](#buying-and-installing-minecraft)
 
 
-## 💵BUYING & INSTALLING MINECRAFT
+
+## Buying and Installing Minecraft
 
 If you don't have Minecraft at all, you need to install it. Before, you had to choose between Java (Recommended) and Bedrock Edition. Thankfully you can buy both versions for $30 USD. But we still recommend using the Java Edition when logging into the server, as it's natively supported.
 
