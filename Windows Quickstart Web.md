@@ -6,6 +6,10 @@ Last Edit: 2/15/2023
 
 ## 📖TABLE OF CONTENTS
 
+* [System Requirements 2023](#system-requirements-2023)
+  * [Minimum Requirements (Java Edition)](#minimum-requirements-java-edition)
+  * [Recommended Requirements (Java Edition)](#recommended-requirements-java-edition)
+  * [PC Minimum Requirements (Bedrock Edition)](#pc-minimum-requirements-bedrock-edition)
 * [Buying and Installing Minecraft](#buying-and-installing-minecraft)
 * [Allocating Memory/RAM](#allocating-memory-to-minecraft)
 * [Joining The Server](#joining-the-server)
@@ -16,6 +20,33 @@ Last Edit: 2/15/2023
   * [Installing Scoop and Ferium for Windows](#installing-scoop-and-ferium-for-windows)
   * [Configuring Ferium](#configuring-ferium)
 
+## SYSTEM REQUIREMENTS 2023
+
+#### MINIMUM REQUIREMENTS (JAVA EDITION)
+* **CPU:** Intel Core i3-3210 3.2 GHz / AMD A8-7600 APU 3.1 GHz or equivalent
+* **RAM:** 4GB
+* **GPU** (Integrated): Intel HD Graphics 4000 (Ivy Bridge) or AMD Radeon R5 series (Kaveri line) with OpenGL 4.4*
+* **GPU** (Discrete): Nvidia GeForce 400 Series or AMD Radeon HD 7000 series with OpenGL 4.4
+* **HDD:** At least 1GB for game core, maps, and other files
+* **OS:** Windows: 64-Bit Windows 10 and up
+* Internet connectivity is required for downloading Minecraft files, afterwards offline play is possible.
+
+#### RECOMMENDED REQUIREMENTS (JAVA EDITION)
+* **CPU:** Intel Core i5-4690 3.5GHz / AMD A10-7800 APU 3.5 GHz or equivalent
+* **RAM:** 8GB
+* **GPU:** GeForce 700 Series or AMD Radeon Rx 200 Series (excluding integrated chipsets) with OpenGL 4.5
+* **HDD:** 4GB (SSD is strongly recommended)
+* **OS:** Windows: 64-Bit Windows 10 and up
+* Internet connectivity is required for downloading Minecraft files, afterwards offline play is possible.
+
+#### PC MINIMUM REQUIREMENTS (BEDROCK EDITION)
+* **CPU:** Intel Core i3 3210 | AMD A8 7600 APU or equivalent
+* **RAM:** 4 GB RAM
+* **HDD:** 180 MB to 1 GB available space
+* **GPU:** Intel HD Graphics 4000 or AMD Radeon R5 series | NVIDIA GeForce 400 Series or AMD Radeon HD 7000 series
+* **OS:** 64-bit Windows 10 and up
+* **Screen Resolution:** 1024 x 768 or better
+* Internet connectivity is required for downloading Minecraft files, afterwards offline play is possible. 
 
 ## BUYING AND INSTALLING MINECRAFT
 
