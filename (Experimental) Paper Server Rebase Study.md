@@ -1,7 +1,7 @@
 **ℹ️Server Rebase Information**
 ---------------------------------------
-PaperMC, which is typically better for servers, could be used to replace Fabric as the base for our server.
-Due to the fact that most of our mods have Paper plugin versions or alternatives, the change will probably go unnoticed by the end user.
+PaperMC, which is typically better for servers, could be used to replace Fabric as the base for our server. I'm exploring if this is viable.
+Due to the fact that most of our mods have Paper plugin versions or alternatives, the change will probably go unnoticed by the end user is the goal.
 
 
 
