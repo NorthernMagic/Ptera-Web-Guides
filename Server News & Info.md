@@ -1,6 +1,6 @@
 ---
-Title: How the Ptera server works
-Description: A guide explaining how our server works.
+Title: Server News & Information
+Description: A guide explaining the latest in server news and info.
 Last Edit: 2/16/2023
 ---
 
