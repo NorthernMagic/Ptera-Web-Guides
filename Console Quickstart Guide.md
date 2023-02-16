@@ -42,7 +42,7 @@ If you don't have an active subscription, buy it off the eShop or [here](https:/
 
 ⚠️ If you get an error saying you aren't on the whitelist, DM a moderator and they will get things sorted out. Try to rejoin after that.
 
-### ✅ You have everything needed to join our server. We highly recommend installing some mods to improve Minecraft's performance. You can end here, but follow sections 4+ to install mods if you'd like.
+### ✅ You have everything needed to join our server on Nintendo Switch!
 
 ## PLAYSTATION SETUP
 
