@@ -1,4 +1,4 @@
-# Ptera-Web-Guides
+# Ptera Web Guides README
 
 This github was made by me (Magic) so the guides can all be centralized. You are getting the latest versions
 of these guides, freshly right off the trunk. 
