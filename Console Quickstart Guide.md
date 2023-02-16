@@ -8,7 +8,7 @@ Last Edit: 2/16/2023
 
 * [Nintendo Switch Setup](#nintendo-switch-setup)
   * [Buying and Installing Minecraft (Nintendo Switch)](#buying-and-installing-minecraft-nintendo-switch)
-  * [Joining The Server (Nintendo Switch](#joining-the-server-nintendo-switch)
+  * [Joining The Server (Nintendo Switch)](#joining-the-server-nintendo-switch)
 * [PlayStation Setup](#playstation-setup)
 
 ## NINTENDO SWITCH SETUP
