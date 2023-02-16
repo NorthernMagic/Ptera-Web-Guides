@@ -4,6 +4,16 @@ Description: A guide explaining how our server works.
 Last Edit: 2/16/2022
 ---
 
+## 📖 Table Of Contents
+
+* [Minecraft Version](#minecraft-version)
+* [Server "Base"](#server-base)
+* [Mods We Use]()
+  * [Fabric API](#fabric-api)
+  * [Lithium](#lithium)
+  * [Geyser](#geyser)
+  * [Floodgate](#floodgate) 
+
 ## Minecraft Version
 Our server is always based off the latest version of Minecraft.
 Right now it's currently `1.19.3`. Historically it takes around 2
@@ -12,18 +22,18 @@ weeks to for everything to be updated.
 ## Server "Base"
 
 The server is currently using Fabric as the "base" of it.
- This is different than Paper or Spigot. As we use mods instead of plugins.
+This is different than Paper or Spigot. As we use mods instead of plugins.
 
 ## Mods We Use
 
-**Fabric API**
+#### Fabric API
 
 Fabric API is the library for essential hooks 
 and interoperability mechanisms for Fabric mods. 
 
 * [Fabric API Download & Documentation](https://modrinth.com/mod/fabric-api)
 
-**Lithium**
+#### Lithium
 
 Lithium is a modern, general-purpose optimization mod 
 for Minecraft which works to improve a 
@@ -32,7 +42,7 @@ with the goal of not changing any vanilla mechanics.
 
 * [Lithium Download & Documentation](https://modrinth.com/mod/lithium)
 
-**Geyser**
+#### Geyser
 
 Geyser is a middleware, 
 which translates all the incoming and
@@ -41,7 +51,7 @@ send between each other to maintain good networking).
 
 * [Geyser Download & Documentation](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/)
 
-**Floodgate**
+#### Floodgate
 
 Floodgate is a hybrid mode plugin that allows Minecraft: Bedrock Accounts to join Minecraft: Java Edition servers without needing a 
 Minecraft: Java Edition account. 
