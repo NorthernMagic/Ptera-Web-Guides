@@ -5,12 +5,17 @@ Last Edit: 2/16/2023
 ---
 
 Minecraft needs to be maintained regularly.
-This ensures you have an amazing experience without issues.
+This ensures you have an amazing experience without issues. 
+
+⚠ This guide is based off the Windows 10 Quickstart guide. Same process with forge or quilt mod loaders.
 
 ## 📖 TABLE OF CONTENTS 
 * [Updating Minecraft](#updating-minecraft)
   * [Updating Minecraft (Java Edition)](#updating-minecraft-java-edition)
   * [Updating Minecraft (Bedrock Edition)](#updating-minecraft-bedrock-edition)
+* [Updating Fabric](#updating-fabric)
+* [Updating Mods](updating-mods)
+  * [Updating Mods With Ferium](#updating-mods-with-ferium)
 
 ## UPDATING MINECRAFT
 
@@ -48,11 +53,25 @@ you are likely up to date with the launcher.
 
 ⚠️ The next sections are intended for Java Edition players only.
 
+## UPDATING FABRIC
 
+The Fabric loader gets updates every so often. Unfortunately Ferium can't download the newest loader versions,
+so we need to do things manually.
 
+2a) Go [here](https://fabricmc.net/use/installer/) and download the Fabric installer. Or if you already have it installed, open that.
 
+2b) Once in the installer, make sure the loader version to download matches the current one you have installed. An easy way to check is to open the launcher and
+analyze the version info below your Fabric installation.
 
+2c) If they match, then you are up to date. If they don't then download the latest version from the installer.
 
+2d) The new version will overwrite the old one and keep your configs, mods, and memory allocation.
 
+## UPDATING MODS
+Mods recieve updates every so often too. Ferium can download these mods in a jiffy. You can also update them manually too.
 
+#### Updating Mods With Ferium
 
+3a) Open a terminal and type or copy and paste in `ferium upgrade`. Then press enter. Ferium will then update your mods instantly.
+
+3b) Close the terminal. You can hit X or type in `exit` and press enter.
