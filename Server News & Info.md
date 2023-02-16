@@ -17,6 +17,8 @@ Last Edit: 2/16/2023
   * [Floodgate](#floodgate) 
   * [FerriteCore](#ferritecore)
   * [Ledger](#ledger)
+  * [Krypton](#krypton)
+  * [Spark](#spark)
   * [No Chat Reports](#no-chat-reports)
   * [World Edit](#world-edit)
   * [Falling Tree](#falling-tree)
@@ -110,6 +112,18 @@ it's much easier to add new, easy to use features.
 
 * [Ledger Download & Documentation](https://modrinth.com/mod/ledger)
 
+#### Krypton
+
+Fabric mod that attempts to optimize the Minecraft networking stack. 
+It derives from work done in the Velocity and Tuinity projects.
+
+* [Krypton Download & Documentation](https://modrinth.com/mod/krypton)
+
+#### Spark
+
+Spark is a performance profiler for Minecraft clients, servers and proxies.
+
+* [Spark Download & Documentation](https://modrinth.com/mod/spark)
 
 
 #### No Chat Reports
