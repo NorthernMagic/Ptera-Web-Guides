@@ -13,6 +13,12 @@ Last Edit: 2/16/2022
   * [Lithium](#lithium)
   * [Geyser](#geyser)
   * [Floodgate](#floodgate) 
+  * [FerriteCore](#ferritecore)
+  * [Ledger](#ledger)
+  * [No Chat Reports](#no-chat-reports)
+  * [World Edit](#world-edit)
+  * [Falling Tree](#falling-tree)
+  * [Terralith](#terralith)
 
 ## Minecraft Version
 Our server is always based off the latest version of Minecraft.
@@ -58,6 +64,61 @@ Minecraft: Java Edition account.
 This is something you install in addition to Geyser.
 
 * [Floodgate Download & Documentation](https://github.com/GeyserMC/Floodgate)
+
+#### FerriteCore
+
+This mod reduces the memory usage of Minecraft 
+in a few different ways.
+
+* [FerriteCore Download & Documentation](https://modrinth.com/mod/ferrite-core)
+
+#### Ledger
+
+Ledger is a server-side logging mod for Minecraft 1.19.x. 
+Ledger has been written from scratch to solve the main issues of 
+DeltaLogger and other logging mods. 
+This allows it to log much more and 
+it's much easier to add new, easy to use features.
+
+* [Ledger Download & Documentation](https://modrinth.com/mod/ledger)
+
+
+
+#### No Chat Reports
+
+This mod strips cryptographic signatures that since 1.19 are 
+attached to every message sent in the chat. Removing them 
+makes it impossible to track and associate your chat 
+messages with your Minecraft and, 
+by extension, Microsoft account.
+
+* [No Chat Reports Download & Documentation](https://modrinth.com/mod/no-chat-reports)
+
+#### World Edit
+
+A Minecraft Map Editor... that runs in-game!
+With selections, schematics, copy and paste, 
+brushes, and scripting.
+
+* [World Edit Download & Documentation](https://www.curseforge.com/minecraft/mc-mods/worldedit)
+
+#### Falling Tree 
+
+Break down your 
+trees by only cutting one piece of it.
+All works on the server side!
+
+* [Falling Tree Download & Documentation](https://modrinth.com/mod/fallingtree)
+
+#### Terralith
+
+Terralith adds over 95 brand new biomes, 
+as well as updating almost every vanilla 
+biome with new and improved features.
+
+* [Terralith Download & Documentation](https://modrinth.com/mod/terralith)
+
+
 
 
 
