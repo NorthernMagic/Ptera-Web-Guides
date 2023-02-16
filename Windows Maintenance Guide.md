@@ -6,6 +6,7 @@ Last Edit: 2/16/2023
 
 Minecraft needs to be maintained regularly.
 This ensures you have an amazing experience without issues. 
+We also recommend you keep Windows and all your other software such as drivers, up to date.
 
 ⚠ This guide is based off the Windows 10 Quickstart guide. Same process with forge or quilt mod loaders.
 
@@ -16,6 +17,7 @@ This ensures you have an amazing experience without issues.
 * [Updating Fabric](#updating-fabric)
 * [Updating Mods](updating-mods)
   * [Updating Mods With Ferium](#updating-mods-with-ferium)
+  * [Updating Mods Manually](#updating-mods-manually)
 
 ## UPDATING MINECRAFT
 
@@ -75,3 +77,16 @@ Mods recieve updates every so often too. Ferium can download these mods in a jif
 3a) Open a terminal and type or copy and paste in `ferium upgrade`. Then press enter. Ferium will then update your mods instantly.
 
 3b) Close the terminal. You can hit X or type in `exit` and press enter.
+
+#### Updating Mods Manually
+
+While we recommend using Ferium, you can download mods manually too if you don't want Ferium installed on your system
+
+3c) Go to the website where you downloaded the mod(s) from and compare the name of the file to the .jar files in your `mods` folder.
+
+3d) If they match, they are likely up to date. If they don't replace the old mod .jar file with the new one.
+
+3e) Close File Explorer. The mod(s) are now updated.
+
+
+
