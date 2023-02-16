@@ -1,7 +1,7 @@
 **ℹ️Server Rebase Information**
 ---------------------------------------
 PaperMC, which is typically better for servers, could be used to replace Fabric as the base for our server. I'm exploring if this is viable.
-Due to the fact that most of our mods have Paper plugin versions or alternatives, the change will probably go unnoticed by the end user is the goal.
+Due to the fact that most of our mods have Paper plugin versions. I'm currently studying about this, to see if it would hypothetically work.
 
 
 
@@ -23,6 +23,8 @@ Paper Migration Documentation: https://docs.papermc.io/paper/migration
 🟩GeyserMC (Plugin): https://ci.opencollab.dev/job/GeyserMC/job/Geyser/job/master/
 
 🟩Floodgate (Plugin): https://github.com/GeyserMC/Floodgate/
+
+🟨EssentialsX Moderation (Plugin) https://essentialsx.net/
 
 🟨Terralith (Datapack): https://www.planetminecraft.com/data-pack/terralith-overworld-evolved-100-biomes-caves-and-more/
 
