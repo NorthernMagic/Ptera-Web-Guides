@@ -42,6 +42,8 @@ Paper Migration Documentation: https://docs.papermc.io/paper/migration
 
 🟩 Floodgate (Plugin): https://github.com/GeyserMC/Floodgate/
 
+🟩 Spark (Plugin): https://www.spigotmc.org/resources/spark.57242/
+
 🟩 Terralith (Datapack): https://www.planetminecraft.com/data-pack/terralith-overworld-evolved-100-biomes-caves-and-more/
 
 ---------
