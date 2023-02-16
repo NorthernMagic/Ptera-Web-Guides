@@ -10,6 +10,7 @@ Last Edit: 2/16/2022
 * [Server "Base"](#server-base)
 * [Mods We Use]()
   * [Fabric API](#fabric-api)
+  * [Fabric Language Kotlin](#fabric-language-kotlin)
   * [Lithium](#lithium)
   * [Geyser](#geyser)
   * [Floodgate](#floodgate) 
@@ -38,6 +39,12 @@ Fabric API is the library for essential hooks
 and interoperability mechanisms for Fabric mods. 
 
 * [Fabric API Download & Documentation](https://modrinth.com/mod/fabric-api)
+
+#### Fabric Language Kotlin
+
+This is a mod that enables usage of the Kotlin programming language for Fabric mods.
+
+[Fabric Language kotlin Download & Documentation](https://modrinth.com/mod/fabric-language-kotlin)
 
 #### Lithium
 
