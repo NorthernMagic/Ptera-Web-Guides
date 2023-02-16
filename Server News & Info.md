@@ -1,6 +1,6 @@
 ---
-Title: How the Ptera server works
-Description: A guide explaining how our server works.
+Title: Server News & Information
+Description: A guide explaining the latest in server news and info.
 Last Edit: 2/16/2023
 ---
 
@@ -31,8 +31,13 @@ Last Edit: 2/16/2023
 ## Latest Server News 
 Here is the latest news on what is happening in our server!
 
-**Insert News Here**
-* News last updated on 2/16/2023
+* Jaxon created more nether tunnels compatible with Bedrock players.
+* The server has 100+ new members
+* Increased server advertising to gain more players
+* New quickstart guides have been made and can be accessible via github
+* 1.20 Archeology and biomes revealed
+
+*News last updated on 2/16/2023*
 
 ## Minecraft Version
 Our server is always based off the latest version of Minecraft.
