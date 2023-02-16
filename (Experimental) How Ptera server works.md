@@ -16,6 +16,13 @@ The server is currently using Fabric as the "base" of it.
 
 ## Mods We Use
 
+**Fabric API**
+
+Fabric API is the library for essential hooks 
+and interoperability mechanisms for Fabric mods. 
+
+* [Fabric API Download & Documentation](https://modrinth.com/mod/fabric-api)
+
 **Lithium**
 
 Lithium is a modern, general-purpose optimization mod 
@@ -33,4 +40,14 @@ outgoing packets (pieces of data your client and server
 send between each other to maintain good networking).
 
 * [Geyser Download & Documentation](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/)
+
+**Floodgate**
+
+Floodgate is a hybrid mode plugin that allows Minecraft: Bedrock Accounts to join Minecraft: Java Edition servers without needing a 
+Minecraft: Java Edition account. 
+This is something you install in addition to Geyser.
+
+* [Floodgate Download & Documentation](https://github.com/GeyserMC/Floodgate)
+
+
 
