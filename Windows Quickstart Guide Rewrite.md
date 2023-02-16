@@ -86,7 +86,7 @@ Time to join the server! This is pretty easy and seamless
 
 3c) In the `Server Address` field, type in the IP address of our server. `play.ptera.tv`
 
-3d) Click done and the server should be saved to your server list. Fill out this Google form and DM Ptera or a moderator about you filling it out to ensure you get added.
+3d) Click done and the server should be saved to your server list. Fill out this Google [form](https://docs.google.com/forms/d/e/1FAIpQLSeEBVKIESOidbwOyYXCdaG4JxFVVfZEXefyW7vQQQHF83sEYQ/viewform?usp=send_form) if you haven't, and DM Ptera or a moderator about you filling it out to ensure you get added.
 
 3e) Once you are added to the server join it in the server list by hovering over the server picture and clicking the gray `Play Button`. You should be able to join and will be at spawn. 
 
