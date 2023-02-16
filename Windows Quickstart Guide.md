@@ -196,5 +196,5 @@ LazyDFU - `hvFnDODi`
 
 7h) Once finished adding the project ids into Ferium, put in `ferium upgrade` to download your mods into the mods folder. You also use this command to update your mods too. So do it every so often. It only takes a few seconds, by opening the terminal and typing this in, compared to manually looking on the mod pages themselves.
 
-
+### ✅ You are done with installing mods and making updates easier! Feel free to join our server now! 
 
