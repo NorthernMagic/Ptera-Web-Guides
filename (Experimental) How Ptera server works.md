@@ -1,11 +1,12 @@
 ---
 Title: How the Ptera server works
 Description: A guide explaining how our server works.
-Last Edit: 2/16/2022
+Last Edit: 2/16/2023
 ---
 
 ## 📖 Table Of Contents
 
+* [Latest Server News](#latest-server-news)
 * [Minecraft Version](#minecraft-version)
 * [Server "Base"](#server-base)
 * [Mods We Use]()
@@ -20,11 +21,26 @@ Last Edit: 2/16/2022
   * [World Edit](#world-edit)
   * [Falling Tree](#falling-tree)
   * [Terralith](#terralith)
+ * [Featured People](#featured-people)
+  * [Ptera XD](#ptera_xd)
+  * [Nossebro](#nossebro)
+  * [Spaceeinstein (Spacey)](#spaceeinstein-spacey)
+  * [Jaxon OSU](#jaxon-osu)
+  * [The Moderation Team](#the-moderation-team)
+
+## Latest Server News 
+Here is the latest news on what is happening in our server!
+
+**Insert News Here**
+* News last updated on 2/16/2023
 
 ## Minecraft Version
 Our server is always based off the latest version of Minecraft.
 Right now it's currently `1.19.3`. Historically it takes around 2
 weeks to for everything to be updated.
+
+Minecraft Bedrock users usually disregard, as being on the latest version of `1.19.xx` will get you access to our server.
+If you get an error when joining, Geyser and Floodgate are likely the culprits. They update quick quickly, so this should be less of a problem
 
 ## Server "Base"
 
@@ -125,6 +141,40 @@ biome with new and improved features.
 
 * [Terralith Download & Documentation](https://modrinth.com/mod/terralith)
 
+## Featured People
+
+#### Ptera_XD
+
+Ptera is the owner and streamer of the server. He is an active and dedicated central part of the community.
+You can watch him on Twitch [here](https://www.twitch.tv/ptera_xd) every Monday-Thursday (Sometimes Fridays too)!
+Be sure to keep an eye out for him on the server and make sure to give him a follow!
+
+#### Nossebro
+
+Nossebro is the server maintainer and controls everything in the background to ensure an amazing experience for you guys.
+His hard work and dedication keeping things in tip-top shape are a core part of this community, make us grateful to be a part of the team!
+
+#### Spaceeinstein (Spacey)
+
+Spaceeinstein is a pro Minecraft player and a valuable member of the community.
+He has built much of the farm infrastructure throughout the server and is
+willing to help out others if they have any questions or need assistance.
+He is happy to share his knowledge and expertise with others!
+
+⚠ It's important to note that the farm infrastructure is not free to use without permission.
+Please make sure to ask Spaceeinstein for premission before accessing any of the resources he has built.
+We are grateful for what he has done for the community!
+
+#### Jaxon OSU
+
+Jaxon has built up one of the best spawn areas on the server. It is filled with resources for new players to use. 
+Please try to ask him for using any of his resources though. Jaxon has also helped organize many events on the server and built new, streamlined nether highway tunnels.
+
+#### The Moderation Team
+
+The moderation team (anonymous) on the server is committed to protecting and ensuring you (the end user) get an amazing experience here.
+They are responsible for enforcing the rules throughout the server and are always willing to address any concerns or questions you have.
+We are grateful to have such an amazing team on the server!
 
 
 
