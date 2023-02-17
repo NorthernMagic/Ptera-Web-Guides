@@ -21,6 +21,7 @@ plugin version compatible with Paper.
 * [How To Switch From Fabric to Paper (WIP)](#how-to-switch-from-fabric-to-paper-wip)
   * [Installing PaperMC](#installing-papermc)
   * [Installing Plugins](#installing-plugins)
+  * [Additional Information](#additional-information)
 * [Troubleshooting Plugins](#troubleshooting-plugins)
   * [Check Server Logs](#check-server-logs)
   * [Missing Dependencies](#missing-dependencies)
@@ -28,6 +29,7 @@ plugin version compatible with Paper.
   * [Ambiguous Plugin Name](#ambiguous-plugin-name)
   * [Something Else](#something-else)
   * [If Nothing Is Logged](#if-nothing-is-logged)
+* [Sources & Documentation](#sources--documentation)
 
 
 ## PaperMC Downloads & Documentation
@@ -111,6 +113,16 @@ Drag and drop the plugin file (.jar) into the plugins folder.
 2c) Restart your server. The plugin(s) should load.
 
 2d) Check your work. Once the server has finished loading, run the `/plugins` command in-game or type `plugins` into the console. You should see your freshly installed plugin listed in `green`. If it is not listed or is colored red, continue to [Troubleshooting Plugins](#troubleshooting-plugins). A plugin listed in red means that it is not currently enabled. For a freshly installed plugin, this often means that the plugin failed to load.
+
+## Additional Information
+
+Here is a chart to show the difference between how Vanilla and Paper store worlds.
+
+| Server Software | Overworld | Nether                | End                   |
+| --------------- | --------- | --------------------- | --------------------- |
+| Vanilla         | `/world`  | `/world/DIM-1`        | `/world/DIM1`         |
+| Paper           | `/world`  | `/world_nether/DIM-1` | `/world_the_end/DIM1` |
+
 
 ## Troubleshooting Plugins
 
@@ -206,4 +218,6 @@ If both of these are true and you still see no logs please reach out for support
 [Discord](https://discord.gg/papermc) server in the `#paper-help` channel.
 
 -----
+
+## Sources & Documentation
 
