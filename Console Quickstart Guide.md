@@ -15,6 +15,7 @@ Last Edit: 2/16/2023
 * [Xbox Setup](#xbox-setup)
   * [Buying and Installing Minecraft (Xbox)](#buying-and-installing-minecraft-xbox)
   * [Joining The Server (Xbox)](#joining-the-server-xbox)
+* [(Alternative) Using BedrockConnect](#using-bedrockconnect)
 
 ## NINTENDO SWITCH SETUP
 
@@ -57,7 +58,7 @@ This section is for you Playstation players. We are using a tool developed by ou
 
 In order to join our server on PlayStation, you need to have a copy of Minecraft: Bedrock Edition on your console. 
 You also need to have an active PlayStation Plus (Essentials or higher) subscription for multiplayer. You also need a Microsoft account.
-If you already have these, feel free to skip to the next section.
+If you already have these, feel free to skip to the next section. 
 
 1a) Open the PlayStation Store and search up Minecraft or log into the [PlayStation Online Store](https://store.playstation.com/en-us/product/UP4433-CUSA00744_00-MINECRAFTPS40001).
 
@@ -111,3 +112,32 @@ If you don't have an active subscription, buy it off the PlayStation Store on yo
 ⚠️ If you get an error saying you aren't on the whitelist, DM a moderator and they will get things sorted out. Try to rejoin after that.
 
 ### ✅ You have everything needed to join our server on Xbox!
+
+## USING BEDROCKCONNECT
+
+If you want to use a more versatile tool of connecting to Java servers or don't want to use our in-house DNS server then use BedrockConnect! Setting up BedrockConnect
+is strikingly similar to using our DNS tool. Lets get into it! BedrockConnect can be used on any console.
+
+1a) Follow your respective console section until you get up to step 2a, the DNS switching section.
+
+| IP Address | Location | Maintainer | Note |
+| ------------- | ------------- | ------------- | ------------- |
+| 104.238.130.180 | <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" height="20"> | [Pugmatt](https://github.com/Pugmatt) | Main instance. Multiple load balanced servers. Might be blocked on PS4, try another instance if you experience issues. |
+| 173.82.100.84 | <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" height="20"> | [jdextraze](https://github.com/jdextraze) | |
+| 213.171.211.142 | <img src="https://flagicons.lipis.dev/flags/4x3/gb.svg" height="20"> | [kmpoppe](https://github.com/kmpoppe) | No DNS service, only BedrockConnect server  |
+| 217.160.58.93 | <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" height="20"> | [kmpoppe](https://github.com/kmpoppe) | No DNS service, only BedrockConnect server |
+| 188.165.49.178 | <img src="https://flagicons.lipis.dev/flags/4x3/fr.svg" height="20"> | [Darkmoi3108](https://github.com/darkmoi3108) | |
+| 134.255.231.119 | <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" height="20"> | [ZAP-Hosting](https://github.com/zaphosting) | |
+| 91.218.66.13 | <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" height="20"> | [LazyBirb](https://github.com/LazyBirb) | |
+
+1b) Choose the DNS server in the chart closest to your real world location for the best connection.
+
+1c) Open Minecraft and go to the featured servers tab.
+
+1d) Click `Connect to a Server` and input our IP address `play.ptera.tv`. The port does not need to be changed.
+
+1e) Toggle `Add to server list` and the server should be readily available on the featured server list. 
+
+1f) Fill out this Google [form](https://docs.google.com/forms/d/e/1FAIpQLSeEBVKIESOidbwOyYXCdaG4JxFVVfZEXefyW7vQQQHF83sEYQ/viewform?usp=send_form) if you haven't, and DM Ptera or a moderator about you filling it out to ensure you get added.
+ 
+### ✅ Happy Crafting! 
