@@ -17,6 +17,8 @@ Last Edit: 2/19/2023
 * [Setting Up Optifine](#setting-up-optifine)
   * [Allocating RAM To Optifine](#allocating-ram-to-optifine)
 * [Installing Shaders](#installing-shaders)
+  * [Amazing Shaders To Try Out](#amazing-shaders-to-try-out)
+  * [Amazing Resourcepacks To Try Out](#amazing-resourcepacks-to-try-out)
 
 ## SETTING UP IRIS (RECOMMENDED)
 
@@ -53,7 +55,7 @@ Allocating more than half of it is generally a bad idea. So for example if you h
 
 2d) Once comfortable with allocating the amount of RAM you want, change the number between the x and the G to it. Click `Save` and Go to the `Play` tab. 
 
-✅ Iris is now installed! Skip to Installing Shaders to install your shaders!
+✅ Iris is now installed! Skip to [Installing Shaders](#installing-shaders) to install your shaders!
 
 ### IRIS INSTALL METHOD 2
 
@@ -134,7 +136,7 @@ Allocating more than half of it is generally a bad idea. So for example if you h
 
 6d) Once comfortable with allocating the amount of RAM you want, change the number between the x and the G to it. Click `Save` and Go to the `Play` tab.
 
-✅ Iris and the mods are now installed! Skip to Installing Shaders to install your shaders!
+✅ Iris and the mods are now installed! Skip to [Installing Shaders](#installing-shaders) to install your shaders!
 
 
 ## SETTING UP OPTIFINE
@@ -169,12 +171,52 @@ Allocating more than half of it is generally a bad idea. So for example if you h
 
 2d) Once comfortable with allocating the amount of RAM you want, change the number between the x and the G to it. Click `Save` and Go to the `Play` tab.
 
-✅ Optifine is now installed! Skip to Installing Shaders to install your shaders!
+✅ Optifine is now installed! Skip to [Installing Shaders](#installing-shaders) to install your shaders!
 
 ## INSTALLING SHADERS 
 
+Time to install the glorious stuff we want. The eye candy shaders! Installing shaders are easy to do and only take a few minutes to set up!
 
+1a) Regardless of however you installed Iris or Optifine, launch the installation. This is to create a `shaderpacks` folder.
 
+1b) Close the game and Launcher. Head on over to `C:\Users\<user>\AppData\Roaming\.minecraft` and locate the folder called `shaderpacks`. 
+If there is no `shaderpacks` folder, then create one.
 
+1c) Minimize the file explorer window.
+
+1d) Lets practice installing shaders.
+
+⬇️ Download Complementary Shaders v4 [here](https://www.complementary.dev/shaders-v4/)
+
+1e) Click the download for Complementary Shaders v4, an amazing all around shader many of us use. Download the zip file and put it into the `shaderpacks` folder.
+The shader is now installed! Then close file explorer.
+
+⚠️ Some shaders may require you to extract certain contents from the zip folders they are downloaded in. But for most, just drag and drop the freshly download zip folder into the `shaderpacks` folder.
+
+✅ You are done installing shaders! Good Job! 
+
+#### AMAZING SHADERS TO TRY OUT
+
+[SEUS Renewed](https://www.sonicether.com/seus/)
+
+[SEUS HRR 2.1](https://www.patreon.com/posts/45141775)
+
+[Sildurs Vibrant Shaders](https://www.curseforge.com/minecraft/customization/sildurs-vibrant-shaders)
+
+[Sildurs Enhanced Default](https://www.curseforge.com/minecraft/customization/sildurs-enhanced-default)
+
+[Make Up UltraFast](https://www.curseforge.com/minecraft/customization/makeup-ultra-fast-shader)
+
+[SDV Shaders](https://www.curseforge.com/minecraft/customization/super-duper-vanilla-shaders)
+
+[BSL](https://www.curseforge.com/minecraft/customization/bsl-shaders)
+
+#### AMAZING RESOURCEPACKS TO TRY OUT
+
+These resourcepacks will quite literally make your world POP! Use shaders with these for a more immersive experience!
+
+[Vanilla PBR](https://www.curseforge.com/minecraft/texture-packs/vanilla-pbr)
+
+[Another Vanilla PBR](https://www.curseforge.com/minecraft/texture-packs/avpbr)
 
 
