@@ -9,6 +9,14 @@ Last Edit: 2/19/2023
 * [Setting Up Iris (Recommended)](#setting-up-iris-recommended)
   * [Iris Install Method 1](#iris-install-method-1)
   * [Allocating RAM To Iris](#allocating-ram-to-iris)
+* [Iris Install Method 2](#iris-install-method-2)
+  * [(Recommended) Download Java JDK](#recommended-download-java-jdk)
+  * [Installing Fabric](#installing-fabric)
+  * [Installing Fabric API And Mods](#installing-fabric-api-and-mods)
+  * [Allocating RAM To Fabric](#allocating-ram-to-fabric)
+* [Setting Up Optifine](#setting-up-optifine)
+  * [Allocating RAM To Optifine](#allocating-ram-to-optifine)
+* [Installing Shaders](#installing-shaders)
 
 ## SETTING UP IRIS (RECOMMENDED)
 
@@ -65,8 +73,7 @@ Minecraft comes with its own standalone version of Java pre-installed. But I rec
 
 #### INSTALLING FABRIC
 
-Fabric is lightweight and is blossoming with new mods everyday. Most of us here actually use Fabric as our primary loader. 
-Before you install Fabric, make sure to close the Minecraft Launcher. Fabric won't install if it's still open.
+Fabric is lightweight and is blossoming with new mods everyday. This section uses Fabric for Iris and actually most of us here actually use Fabric as our primary loader too! Before you install Fabric, make sure to close the Minecraft Launcher. Fabric won't install if it's still open.
 
 ⬇️You can download Fabric [here](https://fabricmc.net/use/installer/)
 
@@ -111,13 +118,48 @@ You can download Fabric API [here](https://modrinth.com/mod/fabric-api)
 These mods listed above help with gameplay performance. The base game of Minecraft isn't that optimized, so these mods will help increase performance. 
 These mods especially give a boost to those on 'Low-End' hardware.
 
-#### ALLOCATING RAM TO IRIS
+#### ALLOCATING RAM TO FABRIC
 
 We recommend allocating more RAM to your custom Iris installation to maximize performance.
 
+6a) In the main page of the launcher, click the `Installations` tab at the top. While here make sure `Modded` and `Snapshots` are checkmarked alongside `Latest Version` if they aren't.
+
+6b) Click on the version you want to allocate RAM to. In this case click the `Fabric` version and click `Edit`.
+
+6c) In the installation editor, click `More Options`. In the `JVM Arguments` box, you will see a `-Xmx2G -XX` followed by a chain of text. 
+
+⚠️ Make sure you know how much RAM you have on your PC! You can look it up in the Windows Settings by typing `About PC` and looking it up.
+
+Allocating more than half of it is generally a bad idea. So for example if you have a PC with 8GB, allocate up to 4GB. If you have a higher RAM count, such as 16GB or 32GB, allocating more than 8GB to Minecraft usually yields diminishing returns.
+
+6d) Once comfortable with allocating the amount of RAM you want, change the number between the x and the G to it. Click `Save` and Go to the `Play` tab.
+
+✅ Iris and the mods are now installed! Skip to Installing Shaders to install your shaders!
+
+
+## SETTING UP OPTIFINE
+
+Optifine has the best shader compatibility out of the 2 shader mods, though Iris is improving quite rapidly in that regard. If you just want a shader mod with the whole kitchen sink, then Optifine is your best bet!
+
+### INSTALLING OPTIFINE
+
+⬇️You can download Optifine [here](https://optifine.net/downloads)
+
+1a) Go to the Optifine download link posted above. 
+
+⚠️ Depending on how recent the latest version of Minecraft is, there might be a preview version of Optifine. If there is now Optifine version, mainline or preview, just install Iris for now.
+
+1b) Once you found the Optifine download for `1.19.3`, click `Mirror` to download it without ads. 
+
+1c) In the Optifine Installer, make sure it matches `1.19.3` and if it does, click `Install`. Optifine will now install onto your PC and create a profile in the Minecraft Launcher.
+
+#### ALLOCATING RAM TO OPTIFINE
+
+We recommend allocating more RAM to your Optifine installation to maximize performance.
+
 2a) In the main page of the launcher, click the `Installations` tab at the top. While here make sure `Modded` and `Snapshots` are checkmarked alongside `Latest Version` if they aren't.
 
-2b) Click on the version you want to allocate RAM to. In this case click the `Fabric` version and click `Edit`.
+2b) Click on the version you want to allocate RAM to. In this case click the `Optifine` version and click `Edit`.
 
 2c) In the installation editor, click `More Options`. In the `JVM Arguments` box, you will see a `-Xmx2G -XX` followed by a chain of text. 
 
@@ -127,10 +169,11 @@ Allocating more than half of it is generally a bad idea. So for example if you h
 
 2d) Once comfortable with allocating the amount of RAM you want, change the number between the x and the G to it. Click `Save` and Go to the `Play` tab.
 
-✅ Iris and the mods are now installed! Skip to Installing Shaders to install your shaders!
+✅ Optifine is now installed! Skip to Installing Shaders to install your shaders!
+
+## INSTALLING SHADERS 
 
 
-## SETTING UP OPTIFINE
 
 
 
