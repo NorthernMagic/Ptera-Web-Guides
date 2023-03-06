@@ -71,7 +71,7 @@ If you don't have an active subscription, buy it off the PlayStation Store on yo
 
 ### JOINING THE SERVER (PLAYSTATION)
 
-2a) Go into the settings app. Go into the internet settings of your network and change the default primary DNS address to `163.74.82.172`. For the secondary one, input `8.8.8.8`. Thanks to our developer and maintainer, he set up a customized DNS server for us to connect your Switch console to the server. 
+2a) Go into the settings app. Go into the internet settings of your network and change the default primary DNS address to `163.74.82.172`. For the secondary one, input `8.8.8.8`. Thanks to our developer and maintainer, he set up a customized DNS server for us to connect your PlayStation console to the server. 
 
 2b) Once the new DNS address has been put in, make sure your setting are saved. Then open up Minecraft and go into the server menu. You should see 2 of the featured servers have a message indicating Ptera’s server below their names.
 
@@ -101,7 +101,7 @@ If you don't have an active subscription, buy it off the PlayStation Store on yo
 
 ### JOINING THE SERVER (XBOX)
 
-2a) Go into the settings app. Go into the internet settings of your network and change the default primary DNS address to `163.74.82.172`. For the secondary one, input `8.8.8.8`. Thanks to our developer and maintainer, he set up a customized DNS server for us to connect your Switch console to the server. 
+2a) Go into the settings app. Go into the internet settings of your network and change the default primary DNS address to `163.74.82.172`. For the secondary one, input `8.8.8.8`. Thanks to our developer and maintainer, he set up a customized DNS server for us to connect your Xbox console to the server. 
 
 2b) Once the new DNS address has been put in, make sure your setting are saved. Then open up Minecraft and go into the server menu. You should see 2 of the featured servers have a message indicating Ptera’s server below their names.
 
