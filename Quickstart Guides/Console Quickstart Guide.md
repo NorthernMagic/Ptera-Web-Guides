@@ -19,7 +19,7 @@ Last Edit: 3/6/2023
 
 ## NINTENDO SWITCH SETUP
 
-This section is for you Nintendo Switch players. We are using a tool called BedrockConnect. It's simpler than you think and takes only minutes to set up.
+This section is for you Nintendo Switch players. We are using a tool called developed by our server maintainer. It's simpler than you think and takes only minutes to set up.
 
 ### BUYING AND INSTALLING MINECRAFT (NINTENDO SWITCH)
 
@@ -38,9 +38,9 @@ If you don't have an active subscription, buy it off the eShop or [here](https:/
 
 ### JOINING THE SERVER (NINTENDO SWITCH)
 
-2a) Go into the settings app. Go into the internet settings of your network and change the default primary DNS address to `104.238.130.180`. For the secondary one, input `8.8.8.8`. 
+2a) Go into the settings app. Go into the internet settings of your network and change the default primary DNS address to `163.74.82.172`. For the secondary one, input `8.8.8.8`. 
 
-2b) Once the new DNS address has been put in, save your internet settings. Then open up Minecraft and go into the server menu. Choose any server, I did Pixel Paradise. I recommend a server you don't play on a lot when choosing. It should now bring up a screen telling you to input a `server address` and `server port`. Our server address is `play.ptera.tv`, and the port is `19132`. Toggle add to server list so you won't have to input the IP again in the future.
+2b) Once the new DNS address has been put in, save your internet settings. Then open up Minecraft and go into the server menu. 2 servers should display our server name on the bottom. Clicking either one, will let you join our server directly.
 
 2c) Fill out this Google [form](https://docs.google.com/forms/d/e/1FAIpQLSeEBVKIESOidbwOyYXCdaG4JxFVVfZEXefyW7vQQQHF83sEYQ/viewform?usp=send_form) if you haven't, and DM Ptera or a moderator about you filling it out to ensure you get added.
 
@@ -52,7 +52,7 @@ If you don't have an active subscription, buy it off the eShop or [here](https:/
 
 ## PLAYSTATION SETUP
 
-This section is for you Playstation players. We are using a tool called BedrockConnect. It's simpler than you think and takes only minutes to set up.
+This section is for you Playstation players. We are using a tool called developed by our server maintainer. It's simpler than you think and takes only minutes to set up.
 
 ### BUYING AND INSTALLING MINECRAFT (PLAYSTATION)
 
@@ -71,9 +71,9 @@ If you don't have an active subscription, buy it off the PlayStation Store on yo
 
 ### JOINING THE SERVER (PLAYSTATION)
 
-2a) Go into the settings app. Go into the internet settings of your network and change the default primary DNS address to `104.238.130.180`. For the secondary one, input `8.8.8.8`. 
+2a) Go into the settings app. Go into the internet settings of your network and change the default primary DNS address to `163.74.82.172`. For the secondary one, input `8.8.8.8`. 
 
-2b) Once the new DNS address has been put in, make sure your setting are saved. Then open up Minecraft and go into the server menu. Choose any server, I did Pixel Paradise. I recommend a server you don't play on a lot when choosing. It should now bring up a screen telling you to input a `server address` and `server port`. Our server address is `play.ptera.tv`, and the port is `19132`. Toggle add to server list so you won't have to input the IP again in the future.
+2b) Once the new DNS address has been put in, make sure your setting are saved. Then open up Minecraft and go into the server menu. 2 servers should display our server name on the bottom. Clicking either one, will let you join our server directly.
 
 2c) Fill out this Google [form](https://docs.google.com/forms/d/e/1FAIpQLSeEBVKIESOidbwOyYXCdaG4JxFVVfZEXefyW7vQQQHF83sEYQ/viewform?usp=send_form) if you haven't, and DM Ptera or a moderator about you filling it out to ensure you get added.
 
@@ -85,7 +85,7 @@ If you don't have an active subscription, buy it off the PlayStation Store on yo
 
 ## XBOX SETUP
 
-This section is for you Xbox players. We are using a tool called BedrockConnect. It's simpler than you think and takes only minutes to set up.
+This section is for you Xbox players. We are using a tool called BedrockConnect. It's simpler than you think and takes only minutes to set up. Our tool developed by our maintainer has issues as of late, so that is why we are using it.
 
 ### BUYING AND INSTALLING MINECRAFT (XBOX)
 
@@ -117,7 +117,7 @@ If you don't have an active subscription, buy it off the PlayStation Store on yo
 
 ## OTHER BEDROCKCONNECT IPS
 
-Here is a quicklist of IPs for other global locations. Try choosing one closest to you if you'd like. We used the US DNS server in this guide.
+Here is a quicklist of IPs for other global locations. Try choosing one closest to you if you'd like. We used the US DNS server in this guide. You can also use BedrockConnect for your Switch or PlayStation if you want a more public DNS. The only difference is joining the server from the menu, as you have to input the IP address and save it.
 
 | IP Address | Location | Maintainer | Note |
 | ------------- | ------------- | ------------- | ------------- |
