@@ -85,7 +85,9 @@ If you don't have an active subscription, buy it off the PlayStation Store on yo
 
 ## XBOX SETUP
 
-This section is for you Xbox players. We are using a tool called BedrockConnect. It's simpler than you think and takes only minutes to set up. Our tool developed by our maintainer has issues as of late, so that is why we are using it.
+This section is for you Xbox players. We are using a tool called BedrockConnect. It's simpler than you think and takes only minutes to set up. 
+
+⚠ There is a bug going on with Xbox consoles, so it may not work. Our tool has had some issues, and it could happen here. If you have issues with the BedrockConnect IP, use our in house one, and if that doesn't work. DM a moderator in the Discord.
 
 ### BUYING AND INSTALLING MINECRAFT (XBOX)
 
