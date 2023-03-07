@@ -89,6 +89,8 @@ This section is for you Xbox players. We are using a tool called BedrockConnect.
 
 ⚠ There is a bug going on with Xbox consoles, so it may not work. Our tool has had some issues, and it could happen here. If you have issues with the BedrockConnect IP, use our in house one, and if that doesn't work. DM a moderator in the Discord.
 
+You can test if it is working in windows by: `nslookup play.pixelparadise.gg 163.74.82.172` or in macos / linux: `dig play.pixelparadise.gg @163.74.82.172`.
+
 ### BUYING AND INSTALLING MINECRAFT (XBOX)
 
 In order to join our server on Xbox, you need to have a copy of Minecraft: Bedrock Edition on your console. 
