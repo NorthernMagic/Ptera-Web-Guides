@@ -1,14 +1,14 @@
 ---
 Title: Minecraft Maintenance Windows
 Description: A guide to teach you how to maintain Minecraft.
-Last Edit: 2/16/2023
+Last Edit: 3/6/2023
 ---
 
 Minecraft needs to be maintained regularly.
 This ensures you have an amazing experience without issues. 
 We also recommend you keep Windows and all your other software such as drivers, up to date.
 
-⚠ This guide is based off the Windows 10 Quickstart guide. Same process with forge or quilt mod loaders.
+⚠ This guide is based off the Windows Quickstart guide. Same process with forge or quilt mod loaders.
 
 ## 📖 TABLE OF CONTENTS 
 * [Updating Minecraft](#updating-minecraft)
@@ -73,10 +73,13 @@ analyze the version info below your Fabric installation.
 Mods recieve updates every so often too. Ferium can download these mods in a jiffy. You can also update them manually too.
 
 #### Updating Mods With Ferium
+3a) We need to sync your Ferium profile with the newest Minecraft version first. Open a terminal. We are using 1.19.4 as an example, as its set to release sometime in the near future.
 
-3a) Open a terminal and type or copy and paste in `ferium upgrade`. Then press enter. Ferium will then update your mods instantly.
+3b) In the terminal type or copy in `ferium profile configure --game-version 1.19.4`.
 
-3b) Close the terminal. You can hit X or type in `exit` and press enter.
+3c) Open a terminal and type or copy in `ferium upgrade`. Then press enter. Ferium will then update your mods instantly for 1.19.4.
+
+3d) Close the terminal. You can hit X or type in `exit` and press enter.
 
 #### Updating Mods Manually
 
@@ -86,7 +89,7 @@ While we recommend using Ferium, you can download mods manually too if you don't
 
 3d) If they match, they are likely up to date. If they don't replace the old mod .jar file with the new one.
 
-3e) Close File Explorer. The mod(s) are now updated.
+3e) Close File Explorer. The mod(s) are now updated and ready to use.
 
 
 
