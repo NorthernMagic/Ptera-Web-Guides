@@ -1,7 +1,7 @@
 ---
 Title: Console Quickstart Guide
-Description: A guide designed to get Minecraft set up and optimized for our server.
-Last Edit: 2/16/2023
+Description: A guide designed for console players to get Minecraft set up and optimized for our server.
+Last Edit: 3/6/2023
 ---
 
 ## 📖TABLE OF CONTENTS
@@ -15,11 +15,11 @@ Last Edit: 2/16/2023
 * [Xbox Setup](#xbox-setup)
   * [Buying and Installing Minecraft (Xbox)](#buying-and-installing-minecraft-xbox)
   * [Joining The Server (Xbox)](#joining-the-server-xbox)
-* [(Alternative) Using BedrockConnect](#using-bedrockconnect)
+* [Other BedrockConnect IPs](#other-bedrockconnect-ips)
 
 ## NINTENDO SWITCH SETUP
 
-This section is for you Nintendo Switch players. We are using a tool developed by our server maintainer to add you on our server. It's simpler than you think and takes only minutes to set up.
+This section is for you Nintendo Switch players. We are using a tool called BedrockConnect. It's simpler than you think and takes only minutes to set up.
 
 ### BUYING AND INSTALLING MINECRAFT (NINTENDO SWITCH)
 
@@ -38,9 +38,9 @@ If you don't have an active subscription, buy it off the eShop or [here](https:/
 
 ### JOINING THE SERVER (NINTENDO SWITCH)
 
-2a) Go into the settings app. Go into the internet settings of your network and change the default primary DNS address to `163.74.82.172`. For the secondary one, input `8.8.8.8`. Thanks to our developer and maintainer, he set up a customized DNS server for us to connect your Switch console to the server. 
+2a) Go into the settings app. Go into the internet settings of your network and change the default primary DNS address to `104.238.130.180`. For the secondary one, input `8.8.8.8`. 
 
-2b) Once the new DNS address has been put in, save your internet settings. Then open up Minecraft and go into the server menu. You should see 2 of the featured servers have a message indicating Ptera’s server below their names.
+2b) Once the new DNS address has been put in, save your internet settings. Then open up Minecraft and go into the server menu. Choose any server, I did Pixel Paradise. I recommend a server you don't play on a lot when choosing. It should now bring up a screen telling you to input a `server address` and `server port`. Our server address is `play.ptera.tv`, and the port is `19132`. Toggle add to server list so you won't have to input the IP again in the future.
 
 2c) Fill out this Google [form](https://docs.google.com/forms/d/e/1FAIpQLSeEBVKIESOidbwOyYXCdaG4JxFVVfZEXefyW7vQQQHF83sEYQ/viewform?usp=send_form) if you haven't, and DM Ptera or a moderator about you filling it out to ensure you get added.
 
@@ -52,7 +52,7 @@ If you don't have an active subscription, buy it off the eShop or [here](https:/
 
 ## PLAYSTATION SETUP
 
-This section is for you Playstation players. We are using a tool developed by our server maintainer to add you on our server. It's simpler than you think and takes only minutes to set up.
+This section is for you Playstation players. We are using a tool called BedrockConnect. It's simpler than you think and takes only minutes to set up.
 
 ### BUYING AND INSTALLING MINECRAFT (PLAYSTATION)
 
@@ -71,9 +71,9 @@ If you don't have an active subscription, buy it off the PlayStation Store on yo
 
 ### JOINING THE SERVER (PLAYSTATION)
 
-2a) Go into the settings app. Go into the internet settings of your network and change the default primary DNS address to `163.74.82.172`. For the secondary one, input `8.8.8.8`. Thanks to our developer and maintainer, he set up a customized DNS server for us to connect your PlayStation console to the server. 
+2a) Go into the settings app. Go into the internet settings of your network and change the default primary DNS address to `104.238.130.180`. For the secondary one, input `8.8.8.8`. 
 
-2b) Once the new DNS address has been put in, make sure your setting are saved. Then open up Minecraft and go into the server menu. You should see 2 of the featured servers have a message indicating Ptera’s server below their names.
+2b) Once the new DNS address has been put in, make sure your setting are saved. Then open up Minecraft and go into the server menu. Choose any server, I did Pixel Paradise. I recommend a server you don't play on a lot when choosing. It should now bring up a screen telling you to input a `server address` and `server port`. Our server address is `play.ptera.tv`, and the port is `19132`. Toggle add to server list so you won't have to input the IP again in the future.
 
 2c) Fill out this Google [form](https://docs.google.com/forms/d/e/1FAIpQLSeEBVKIESOidbwOyYXCdaG4JxFVVfZEXefyW7vQQQHF83sEYQ/viewform?usp=send_form) if you haven't, and DM Ptera or a moderator about you filling it out to ensure you get added.
 
@@ -85,12 +85,14 @@ If you don't have an active subscription, buy it off the PlayStation Store on yo
 
 ## XBOX SETUP
 
+This section is for you Xbox players. We are using a tool called BedrockConnect. It's simpler than you think and takes only minutes to set up.
+
 ### BUYING AND INSTALLING MINECRAFT (XBOX)
 
 In order to join our server on Xbox, you need to have a copy of Minecraft: Bedrock Edition on your console. 
 You also need to have an active Xbox Live Gold or Game Pass subscription for multiplayer.
 
-1a) Open the Xboz Store and search up Minecraft or log into the [Xbox Online Store](https://www.xbox.com/en-US/games/store/minecraft/9mvxmvt8zkwc).
+1a) Open the Xbox Store and search up Minecraft or log into the [Xbox Online Store](https://www.xbox.com/en-US/games/store/minecraft/9mvxmvt8zkwc).
 
 1b) Click on `Add to Cart` or `Buy` to buy Minecraft for $20 USD. Wait for it to install onto your Xbox. 
 
@@ -101,9 +103,9 @@ If you don't have an active subscription, buy it off the PlayStation Store on yo
 
 ### JOINING THE SERVER (XBOX)
 
-2a) Go into the settings app. Go into the internet settings of your network and change the default primary DNS address to `163.74.82.172`. For the secondary one, input `8.8.8.8`. Thanks to our developer and maintainer, he set up a customized DNS server for us to connect your Xbox console to the server. 
+2a) Go into the settings app. Go into the internet settings of your network and change the default primary DNS address to `104.238.130.180`. For the secondary one, input `8.8.8.8`. 
 
-2b) Once the new DNS address has been put in, make sure your setting are saved. Then open up Minecraft and go into the server menu. You should see 2 of the featured servers have a message indicating Ptera’s server below their names.
+2b) Once the new DNS address has been put in, make sure your setting are saved. Then open up Minecraft and go into the server menu. Choose any server, I did Pixel Paradise. I recommend a server you don't play on a lot when choosing. It should now bring up a screen telling you to input a `server address` and `server port`. Our server address is `play.ptera.tv`, and the port is `19132`. Toggle add to server list so you won't have to input the IP again in the future.
 
 2c) Fill out this Google [form](https://docs.google.com/forms/d/e/1FAIpQLSeEBVKIESOidbwOyYXCdaG4JxFVVfZEXefyW7vQQQHF83sEYQ/viewform?usp=send_form) if you haven't, and DM Ptera or a moderator about you filling it out to ensure you get added.
 
@@ -113,12 +115,9 @@ If you don't have an active subscription, buy it off the PlayStation Store on yo
 
 ### ✅ You have everything needed to join our server on Xbox!
 
-## USING BEDROCKCONNECT
+## OTHER BEDROCKCONNECT IPS
 
-If you want to use a more versatile tool of connecting to Java servers or don't want to use our in-house DNS server then use BedrockConnect! Setting up BedrockConnect
-is strikingly similar to using our DNS tool. Lets get into it! BedrockConnect can be used on any console.
-
-1a) Follow your respective console section until you get up to step 2a, the DNS switching section.
+Here is a quicklist of IPs for other global locations. Try choosing one closest to you if you'd like. We used the US DNS server in this guide.
 
 | IP Address | Location | Maintainer | Note |
 | ------------- | ------------- | ------------- | ------------- |
@@ -130,14 +129,8 @@ is strikingly similar to using our DNS tool. Lets get into it! BedrockConnect ca
 | 134.255.231.119 | <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" height="20"> | [ZAP-Hosting](https://github.com/zaphosting) | |
 | 91.218.66.13 | <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" height="20"> | [LazyBirb](https://github.com/LazyBirb) | |
 
-1b) Choose the DNS server in the chart closest to your real world location for the best connection.
+ 
 
-1c) Open Minecraft and go to the featured servers tab.
-
-1d) Click `Connect to a Server` and input our IP address `play.ptera.tv`. The port does not need to be changed.
-
-1e) Toggle `Add to server list` and the server should be readily available on the featured server list. 
-
-1f) Fill out this Google [form](https://docs.google.com/forms/d/e/1FAIpQLSeEBVKIESOidbwOyYXCdaG4JxFVVfZEXefyW7vQQQHF83sEYQ/viewform?usp=send_form) if you haven't, and DM Ptera or a moderator about you filling it out to ensure you get added.
+⚠️ Make sure you fill out this Google [form](https://docs.google.com/forms/d/e/1FAIpQLSeEBVKIESOidbwOyYXCdaG4JxFVVfZEXefyW7vQQQHF83sEYQ/viewform?usp=send_form) if you haven't, and DM Ptera or a moderator about you filling it out to ensure you get added.
  
 ### ✅ Happy Crafting! 
