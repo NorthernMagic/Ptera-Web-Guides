@@ -1,7 +1,7 @@
 ---
 Title: Windows 10/11 Quickstart Guide
-Description: A guide designed to get Minecraft set up and optimized for our server.
-Last Edit: 2/15/2023
+Description: A guide designed for Windows users to get Minecraft set up and optimized for our server.
+Last Edit: 3/6/2023
 ---
 
 ## 📖TABLE OF CONTENTS
@@ -118,7 +118,7 @@ Fabric is lightweight and is blossoming with new mods everyday. Most of us here 
 
 ⚠️ The Windows download doesn't need Java to be installed on your system as it uses the version the launcher has. If you are experiencing issues with the Windows installer, choose the `Download Universal Jar` option and install Java if you haven't.
 
-5b) To install Fabric, double click the installer file in your downloads folder. The Fabric installer will open and display the latest version of the loader `(0.14.14)` and Minecraft (1.19.3) by default. Make sure the option on the top left is set to `Client`, then click the 'Install' button to begin the process.
+5b) To install Fabric, double click the installer file in your downloads folder. The Fabric installer will open and display the latest version of the loader `(0.14.17)` and Minecraft (1.19.3) by default. Make sure the option on the top left is set to `Client`, then click the 'Install' button to begin the process.
 
 5c) After you click `Install`, Fabric will begin the installation process and create a profile in the Minecraft launcher. This will allow you to easily access and launch the Fabric version of Minecraft from within the launcher.
 
@@ -132,12 +132,12 @@ Fabric API is a library that provides essential hooks and interoperability tools
 
 You can download Fabric API [here](https://modrinth.com/mod/fabric-api)
 
-⚠️ We are using modrinth as our mod download site. Its clean and easy to use. In the picture below, make sure the Minecraft version matches 1.19.3. The featured versions usually have the latest builds for each version.
+⚠️ We are using modrinth as our mod download site. Its clean and easy to use. In the picture below, make sure the Minecraft version matches 1.19.3. The featured versions usually have the latest builds for each version. The picture may not be up to date sometimes and the newest Fabric API will likely be a higher version. 
 
-![image](https://user-images.githubusercontent.com/116324840/219203266-344f8658-c7f0-4f48-a61e-dcb60388c857.png)
+![image](https://user-images.githubusercontent.com/116324840/223595476-2151d846-443d-47a7-956f-e08212d85158.png)
 
 
-6a) Once you've downloaded the Fabric API `(0.73.4)` for 1.19.3 .jar file, move it to your desktop for easy access.
+6a) Once you've downloaded the Fabric API for 1.19.3 .jar file, move it to your desktop for easy access.
 
 6b) Then, open File Explorer and navigate to the `mods` folder located at `C:\Users\<user>\AppData\Roaming\.minecraft\mods.` This is where you'll install the Fabric API and any other mods you want to use. If there is no `mods` folder, create one.
 
@@ -151,6 +151,8 @@ You can download Fabric API [here](https://modrinth.com/mod/fabric-api)
 * [Iris Shaders](https://modrinth.com/mod/iris)
 * [FerriteCore](https://modrinth.com/mod/ferrite-core)
 * [LazyDFU](https://modrinth.com/mod/lazydfu)
+* [Krypton](https://modrinth.com/mod/krypton)
+* [EntityCulling](https://modrinth.com/mod/entityculling)
 
 These mods listed above help with gameplay performance. The base game of Minecraft isn't that optimized, so these mods will help increase performance. 
 These mods especially give a boost to those on 'Low-End' hardware.
@@ -193,6 +195,8 @@ Phosphor - `hEOCdOgW`
 Iris Shaders - `YL57xq9U`
 FerriteCore - `uXXizFIs`
 LazyDFU - `hvFnDODi`
+Krypton - `fQEb0iXm`
+EntityCulling - `NNAgCjsB`
 
 7h) Once finished adding the project ids into Ferium, put in `ferium upgrade` to download your mods into the mods folder. You also use this command to update your mods too. So do it every so often. It only takes a few seconds, by opening the terminal and typing this in, compared to manually looking on the mod pages themselves.
 
