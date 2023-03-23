@@ -1,7 +1,7 @@
 ---
 Title: Server News & Information
 Description: A guide explaining the latest in server news and info.
-Last Edit: 2/16/2023
+Last Edit: 3/23/2023
 ---
 
 ## 📖 Table Of Contents
@@ -33,17 +33,17 @@ Last Edit: 2/16/2023
 ## Latest Server News 
 Here is the latest news on what is happening in our server!
 
-* Jaxon created more nether tunnels compatible with Bedrock players.
+* Server infrastructure has been updated
 * The server has 100+ new members
 * Increased server advertising to gain more players
-* New quickstart guides have been made and can be accessible via github
-* 1.20 Archeology and biomes revealed
+* Guides have been updated to 1.19.4
+* 1.20 Trails and Tales is nearing
 
-*News last updated on 2/16/2023*
+*News last updated on 3/23/2023*
 
 ## Minecraft Version
 Our server is always based off the latest version of Minecraft.
-Right now it's currently `1.19.3`. Historically it takes around 2
+Right now it's currently `1.19.4`. Historically it takes around 2
 weeks to for everything to be updated.
 
 Minecraft Bedrock users usually disregard, as being on the latest version of `1.19.xx` will get you access to our server.
