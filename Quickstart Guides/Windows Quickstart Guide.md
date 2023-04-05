@@ -118,7 +118,7 @@ Fabric is lightweight and is blossoming with new mods everyday. Most of us here 
 
 ⚠️ The Windows download doesn't need Java to be installed on your system as it uses the version the launcher has. If you are experiencing issues with the Windows installer, choose the `Download Universal Jar` option and install Java if you haven't.
 
-5b) To install Fabric, double click the installer file in your downloads folder. The Fabric installer will open and display the latest version of the loader `(0.14.17)` and Minecraft (1.19.4) by default. Make sure the option on the top left is set to `Client`, then click the 'Install' button to begin the process.
+5b) To install Fabric, double click the installer file in your downloads folder. The Fabric installer will open and display the latest version of the loader `(0.14.19)` and Minecraft (1.19.4) by default. Make sure the option on the top left is set to `Client`, then click the 'Install' button to begin the process.
 
 5c) After you click `Install`, Fabric will begin the installation process and create a profile in the Minecraft launcher. This will allow you to easily access and launch the Fabric version of Minecraft from within the launcher.
 
@@ -134,7 +134,7 @@ You can download Fabric API [here](https://modrinth.com/mod/fabric-api)
 
 ⚠️ We are using modrinth as our mod download site. Its clean and easy to use. In the picture below, make sure the Minecraft version matches 1.19.4. The featured versions usually have the latest builds for each version. The picture may not be up to date sometimes and the newest Fabric API will likely be a higher version. 
 
-![image](https://user-images.githubusercontent.com/125587294/227261227-392644d8-4b97-40a8-8912-f940d7bb28d4.png)
+![image](https://user-images.githubusercontent.com/116324840/230165062-05b26539-7849-487f-919a-a47358450748.png)
 
 
 6a) Once you've downloaded the Fabric API for 1.19.4 .jar file, move it to your desktop for easy access.
