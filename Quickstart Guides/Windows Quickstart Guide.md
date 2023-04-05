@@ -118,7 +118,7 @@ Fabric is lightweight and is blossoming with new mods everyday. Most of us here 
 
 ⚠️ The Windows download doesn't need Java to be installed on your system as it uses the version the launcher has. If you are experiencing issues with the Windows installer, choose the `Download Universal Jar` option and install Java if you haven't.
 
-5b) To install Fabric, double click the installer file in your downloads folder. The Fabric installer will open and display the latest version of the loader `(0.14.17)` and Minecraft (1.19.3) by default. Make sure the option on the top left is set to `Client`, then click the 'Install' button to begin the process.
+5b) To install Fabric, double click the installer file in your downloads folder. The Fabric installer will open and display the latest version of the loader `(0.14.19)` and Minecraft (1.19.4) by default. Make sure the option on the top left is set to `Client`, then click the 'Install' button to begin the process.
 
 5c) After you click `Install`, Fabric will begin the installation process and create a profile in the Minecraft launcher. This will allow you to easily access and launch the Fabric version of Minecraft from within the launcher.
 
@@ -132,12 +132,12 @@ Fabric API is a library that provides essential hooks and interoperability tools
 
 You can download Fabric API [here](https://modrinth.com/mod/fabric-api)
 
-⚠️ We are using modrinth as our mod download site. Its clean and easy to use. In the picture below, make sure the Minecraft version matches 1.19.3. The featured versions usually have the latest builds for each version. The picture may not be up to date sometimes and the newest Fabric API will likely be a higher version. 
+⚠️ We are using modrinth as our mod download site. Its clean and easy to use. In the picture below, make sure the Minecraft version matches 1.19.4. The featured versions usually have the latest builds for each version. The picture may not be up to date sometimes and the newest Fabric API will likely be a higher version. 
 
-![image](https://user-images.githubusercontent.com/116324840/223595476-2151d846-443d-47a7-956f-e08212d85158.png)
+![image](https://user-images.githubusercontent.com/116324840/230165062-05b26539-7849-487f-919a-a47358450748.png)
 
 
-6a) Once you've downloaded the Fabric API for 1.19.3 .jar file, move it to your desktop for easy access.
+6a) Once you've downloaded the Fabric API for 1.19.4 .jar file, move it to your desktop for easy access.
 
 6b) Then, open File Explorer and navigate to the `mods` folder located at `C:\Users\<user>\AppData\Roaming\.minecraft\mods.` This is where you'll install the Fabric API and any other mods you want to use. If there is no `mods` folder, create one.
 
@@ -176,9 +176,9 @@ Ferium is a simple and easy to use command line based tool to manage mods for Mi
 7f) Configure as follow
 *  >Would you like to specify a custom mods directory? (n)
 *  >What should this profile be called? `1.19-1.20 Minecraft Mods`
-*  >1.19.3 
+*  >1.19.4
 *(Use arrow keys to choose if not highlighted in blue, then press enter)*
- * >Which mod loader do you use? Fabric 
+* >Which mod loader do you use? Fabric 
 *(Use arrow keys to choose if not highlighted in blue, then press enter)*
 
 

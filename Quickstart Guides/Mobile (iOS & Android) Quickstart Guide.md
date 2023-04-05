@@ -1,7 +1,7 @@
 ---
 Title: Mobile Quickstart Guide
 Description: A guide designed to get you onto the Ptera server on iOS and Android.
-Last Edit: 2/19/2023
+Last Edit: 3/14/2023
 ---
 
 ## Table of Contents
@@ -21,7 +21,7 @@ Here is how to join our server on Android.
 
 1a) Log into the Google Play Store. Search up Minecraft.
 
-1b) Buy Minecraft for `$7.49` USD. Minecraft on mobile is cheaper than the console or PC versions.
+1b) Buy Minecraft for `$7.49` USD. Minecraft on Android is cheaper than the console or PC versions.
 
 1c) Wait for Minecraft to download and install onto your Android device.
 
@@ -48,7 +48,7 @@ Here is how to join our server on Android.
 
 1a) Log into the Apple App Store. Search up Minecraft.
 
-1b) Buy Minecraft for `$6.99` USD. Minecraft on mobile is cheaper than the console or PC versions and even the Google Play version.
+1b) Buy Minecraft for `$6.99` USD. Minecraft on iOS is cheaper than the console or PC versions and even the Google Play version.
 
 1c) Wait for Minecraft to download and install onto your iOS device.
 
