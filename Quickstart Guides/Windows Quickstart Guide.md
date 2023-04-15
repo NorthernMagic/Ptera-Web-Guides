@@ -134,7 +134,7 @@ You can download Fabric API [here](https://modrinth.com/mod/fabric-api)
 
 ⚠️ We are using modrinth as our mod download site. Its clean and easy to use. In the picture below, make sure the Minecraft version matches 1.19.4. The featured versions usually have the latest builds for each version. The picture may not be up to date sometimes and the newest Fabric API will likely be a higher version. 
 
-![image](https://user-images.githubusercontent.com/116324840/230165062-05b26539-7849-487f-919a-a47358450748.png)
+![image](https://user-images.githubusercontent.com/116324840/232229209-3803ab01-7449-4733-9f32-60f2d19c4212.png)
 
 
 6a) Once you've downloaded the Fabric API for 1.19.4 .jar file, move it to your desktop for easy access.
