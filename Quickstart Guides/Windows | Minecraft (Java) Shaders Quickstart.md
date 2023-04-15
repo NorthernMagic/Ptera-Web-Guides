@@ -99,10 +99,10 @@ You can download Fabric API [here](https://modrinth.com/mod/fabric-api)
 
 ⚠️ We are using modrinth as our mod download site. Its clean and easy to use. In the picture below, make sure the Minecraft version matches 1.19.4. The featured versions usually have the latest builds for each version.
 
-![image](https://user-images.githubusercontent.com/116324840/230165371-27bdcb6b-68b4-4186-8f3a-2af7e91dff04.png)
+![image](https://user-images.githubusercontent.com/116324840/232229258-7c96a832-2dd2-4948-a7e3-fde4dc883805.png)
 
 
-5a) Once you've downloaded the Fabric API `(0.77.0)` for 1.19.4 .jar file, move it to your desktop for easy access.
+5a) Once you've downloaded the Fabric API `(0.78.0)` for 1.19.4 .jar file, move it to your desktop for easy access.
 
 5b) Then, open File Explorer and navigate to the `mods` folder located at `C:\Users\<user>\AppData\Roaming\.minecraft\mods.` This is where you'll install the Fabric API and any other mods you want to use. If there is no `mods` folder, create one.
 
