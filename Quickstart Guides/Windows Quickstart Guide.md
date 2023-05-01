@@ -100,11 +100,11 @@ Time to join the server! This is pretty easy and seamless
 
 Minecraft comes with its own standalone version of Java pre-installed. But I recommend installing it anyway as it doesn't hurt and some mod loaders need Java installed. Installing Java takes little time to do.
 
-⬇️You can download Java 17.0.6 [here](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+⬇️You can download Java 17.0.7 [here](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 
 4a) To begin the installation process, go to the Java download page. This will take you to Oracle's website, where you can download Java from the official source. Oracle is the company that develops and maintains Java.
 
-4b) To download the latest version of Java, go to the Java download page and look for the section labeled `Java SE 17.0.6`. Click the link labeled `Windows x64 Installer` to download the appropriate version for your PC.
+4b) To download the latest version of Java, go to the Java download page and look for the section labeled `Java SE 17.0.7`. Click the link labeled `Windows x64 Installer` to download the appropriate version for your PC.
 
 4c) To install Java, simply follow the instructions in the installer by clicking `Next` a few times. Java will then install. Once the installation is complete, you can close the installer. Java is ready.
 
@@ -134,8 +134,7 @@ You can download Fabric API [here](https://modrinth.com/mod/fabric-api)
 
 ⚠️ We are using modrinth as our mod download site. Its clean and easy to use. In the picture below, make sure the Minecraft version matches 1.19.4. The featured versions usually have the latest builds for each version. The picture may not be up to date sometimes and the newest Fabric API will likely be a higher version. 
 
-![image](https://user-images.githubusercontent.com/116324840/232229209-3803ab01-7449-4733-9f32-60f2d19c4212.png)
-
+![image](https://user-images.githubusercontent.com/125587294/235520030-2a8f5ab8-37f7-4a93-8bed-21770ad12fe9.png)
 
 6a) Once you've downloaded the Fabric API for 1.19.4 .jar file, move it to your desktop for easy access.
 
