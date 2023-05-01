@@ -1,7 +1,7 @@
 ---
 Title: Shaders Quickstart Guide
 Description: A guide designed to get you started with Minecraft shaders!
-Last Edit: 3/23/2023
+Last Edit: 5/1/2023
 ---
 
 ## 📖 Table Of Contents
@@ -65,11 +65,11 @@ We recommend this method over the first one because it grants the best performan
 
 Minecraft comes with its own standalone version of Java pre-installed. But I recommend installing it anyway as it doesn't hurt and some mod loaders need Java installed. Installing Java takes little time to do.
 
-⬇️You can download Java 17.0.6 [here](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+⬇️You can download Java 17.0.7 [here](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 
 3a) To begin the installation process, go to the Java download page. This will take you to Oracle's website, where you can download Java from the official source. Oracle is the company that develops and maintains Java.
 
-3b) To download the latest version of Java, go to the Java download page and look for the section labeled `Java SE 17.0.6`. Click the link labeled `Windows x64 Installer` to download the appropriate version for your PC.
+3b) To download the latest version of Java, go to the Java download page and look for the section labeled `Java SE 17.0.7`. Click the link labeled `Windows x64 Installer` to download the appropriate version for your PC.
 
 3c) To install Java, simply follow the instructions in the installer by clicking `Next` a few times. Java will then install. Once the installation is complete, you can close the installer. Java is ready.
 
@@ -99,10 +99,9 @@ You can download Fabric API [here](https://modrinth.com/mod/fabric-api)
 
 ⚠️ We are using modrinth as our mod download site. Its clean and easy to use. In the picture below, make sure the Minecraft version matches 1.19.4. The featured versions usually have the latest builds for each version.
 
-![image](https://user-images.githubusercontent.com/116324840/232229258-7c96a832-2dd2-4948-a7e3-fde4dc883805.png)
+![image](https://user-images.githubusercontent.com/125587294/235520248-bc8821fe-318d-4fe3-bdb3-1733e4872e92.png)
 
-
-5a) Once you've downloaded the Fabric API `(0.78.0)` for 1.19.4 .jar file, move it to your desktop for easy access.
+5a) Once you've downloaded the Fabric API `(0.80.0)` for 1.19.4 .jar file, move it to your desktop for easy access.
 
 5b) Then, open File Explorer and navigate to the `mods` folder located at `C:\Users\<user>\AppData\Roaming\.minecraft\mods.` This is where you'll install the Fabric API and any other mods you want to use. If there is no `mods` folder, create one.
 
