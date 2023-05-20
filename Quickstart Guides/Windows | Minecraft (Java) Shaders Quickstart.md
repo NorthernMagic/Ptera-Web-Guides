@@ -99,9 +99,9 @@ You can download Fabric API [here](https://modrinth.com/mod/fabric-api)
 
 ⚠️ We are using modrinth as our mod download site. Its clean and easy to use. In the picture below, make sure the Minecraft version matches 1.19.4. The featured versions usually have the latest builds for each version.
 
-![image](https://user-images.githubusercontent.com/125587294/235520248-bc8821fe-318d-4fe3-bdb3-1733e4872e92.png)
+![image](https://github.com/NorthernMagic/Ptera-Web-Guides/assets/116324840/917e0929-eb07-465b-849b-8ad1925ef572)
 
-5a) Once you've downloaded the Fabric API `(0.80.0)` for 1.19.4 .jar file, move it to your desktop for easy access.
+5a) Once you've downloaded the Fabric API `(0.81.1)` for 1.19.4 .jar file, move it to your desktop for easy access.
 
 5b) Then, open File Explorer and navigate to the `mods` folder located at `C:\Users\<user>\AppData\Roaming\.minecraft\mods.` This is where you'll install the Fabric API and any other mods you want to use. If there is no `mods` folder, create one.
 
@@ -114,7 +114,6 @@ You can download Fabric API [here](https://modrinth.com/mod/fabric-api)
 * [Phosphor](https://modrinth.com/mod/phosphor)
 * [Iris Shaders](https://modrinth.com/mod/iris)
 * [FerriteCore](https://modrinth.com/mod/ferrite-core)
-* [LazyDFU](https://modrinth.com/mod/lazydfu)
 
 These mods listed above help with gameplay performance. The base game of Minecraft isn't that optimized, so these mods will help increase performance. 
 These mods especially give a boost to those on 'Low-End' hardware.
