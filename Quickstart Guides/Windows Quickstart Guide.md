@@ -134,7 +134,7 @@ You can download Fabric API [here](https://modrinth.com/mod/fabric-api)
 
 ⚠️ We are using modrinth as our mod download site. Its clean and easy to use. In the picture below, make sure the Minecraft version matches 1.19.4. The featured versions usually have the latest builds for each version. The picture may not be up to date sometimes and the newest Fabric API will likely be a higher version. 
 
-![image](https://user-images.githubusercontent.com/125587294/235520030-2a8f5ab8-37f7-4a93-8bed-21770ad12fe9.png)
+![image](https://github.com/NorthernMagic/Ptera-Web-Guides/assets/116324840/e0b1a485-2d9c-4565-b842-333e92d8cc41)
 
 6a) Once you've downloaded the Fabric API for 1.19.4 .jar file, move it to your desktop for easy access.
 
@@ -149,7 +149,6 @@ You can download Fabric API [here](https://modrinth.com/mod/fabric-api)
 * [Phosphor](https://modrinth.com/mod/phosphor)
 * [Iris Shaders](https://modrinth.com/mod/iris)
 * [FerriteCore](https://modrinth.com/mod/ferrite-core)
-* [LazyDFU](https://modrinth.com/mod/lazydfu)
 * [Krypton](https://modrinth.com/mod/krypton)
 * [EntityCulling](https://modrinth.com/mod/entityculling)
 
