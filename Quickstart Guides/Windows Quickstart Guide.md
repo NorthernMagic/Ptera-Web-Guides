@@ -132,7 +132,7 @@ Fabric API is a library that provides essential hooks and interoperability tools
 
 You can download Fabric API [here](https://modrinth.com/mod/fabric-api)
 
-⚠️ We are using modrinth as our mod download site. Its clean and easy to use. In the picture below, make sure the Minecraft version matches 1.19.4. The featured versions usually have the latest builds for each version. The picture may not be up to date sometimes and the newest Fabric API will likely be a higher version. 
+⚠️ We are using modrinth as our mod download site. Its clean and easy to use. In the picture below, make sure the Minecraft version matches 1.20.1. The featured versions usually have the latest builds for each version. The picture may not be up to date sometimes and the newest Fabric API will likely be a higher version. 
 
 ![image](https://github.com/NorthernMagic/Ptera-Web-Guides/assets/116324840/6e736ec4-84d4-485d-a860-a203db925167)
 
