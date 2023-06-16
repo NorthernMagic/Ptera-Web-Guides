@@ -1,7 +1,7 @@
 ---
 Title: Minecraft Maintenance Windows
 Description: A guide to teach you how to maintain Minecraft.
-Last Edit: 3/6/2023
+Last Edit: 6/16/2023
 ---
 
 Minecraft needs to be maintained regularly.
@@ -73,11 +73,11 @@ analyze the version info below your Fabric installation.
 Mods recieve updates every so often too. Ferium can download these mods in a jiffy. You can also update them manually too.
 
 #### Updating Mods With Ferium
-3a) We need to sync your Ferium profile with the newest Minecraft version first. Open a terminal. We are using 1.19.4 as an example, as its set to release sometime in the near future.
+3a) We need to sync your Ferium profile with the newest Minecraft version first. Open a terminal. We are using 1.20.1 as an example, as its the latest version of Minecraft available.
 
-3b) In the terminal type or copy in `ferium profile configure --game-version 1.19.4`.
+3b) In the terminal type or copy in `ferium profile configure --game-version 1.20.1`.
 
-3c) Open a terminal and type or copy in `ferium upgrade`. Then press enter. Ferium will then update your mods instantly for 1.19.4.
+3c) Open a terminal and type or copy in `ferium upgrade`. Then press enter. Ferium will then update your mods instantly for 1.20.1.
 
 3d) Close the terminal. You can hit X or type in `exit` and press enter.
 

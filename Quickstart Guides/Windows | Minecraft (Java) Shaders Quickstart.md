@@ -1,7 +1,7 @@
 ---
 Title: Shaders Quickstart Guide
 Description: A guide designed to get you started with Minecraft shaders!
-Last Edit: 3/23/2023
+Last Edit: 6/16/2023
 ---
 
 ## 📖 Table Of Contents
@@ -35,7 +35,7 @@ But a drawback of this method is less performance. Thus is the cost of ease of u
 
 1a) Go to the download page above to download Iris. Click `Download Universal Jar` to download the Iris installer.
 
-1b) In the installer make sure `Select Game Version:` is set to `1.19.4`, `Installation Type:` to `Iris Install`, and `Installation Directory` to `.minecraft`.
+1b) In the installer make sure `Select Game Version:` is set to `1.20.1`, `Installation Type:` to `Iris Install`, and `Installation Directory` to `.minecraft`.
 
 1c) Click `Install`, Iris will create a profile inside the Minecraft Launcher.
 
@@ -45,7 +45,7 @@ We recommend allocating more RAM to your Sodium + Iris installation to maximize 
 
 2a) In the main page of the launcher, click the `Installations` tab at the top. While here make sure `Modded` and `Snapshots` are checkmarked alongside `Latest Version` if they aren't.
 
-2b) Click on the version you want to allocate RAM to. In this case click the `Iris & Sodium for 1.19.4` version and click `Edit`.
+2b) Click on the version you want to allocate RAM to. In this case click the `Iris & Sodium for 1.20.1` version and click `Edit`.
 
 2c) In the installation editor, click `More Options`. In the `JVM Arguments` box, you will see a `-Xmx2G -XX` followed by a chain of text. 
 
@@ -65,11 +65,11 @@ We recommend this method over the first one because it grants the best performan
 
 Minecraft comes with its own standalone version of Java pre-installed. But I recommend installing it anyway as it doesn't hurt and some mod loaders need Java installed. Installing Java takes little time to do.
 
-⬇️You can download Java 17.0.6 [here](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+⬇️You can download Java 17.0.7 [here](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 
 3a) To begin the installation process, go to the Java download page. This will take you to Oracle's website, where you can download Java from the official source. Oracle is the company that develops and maintains Java.
 
-3b) To download the latest version of Java, go to the Java download page and look for the section labeled `Java SE 17.0.6`. Click the link labeled `Windows x64 Installer` to download the appropriate version for your PC.
+3b) To download the latest version of Java, go to the Java download page and look for the section labeled `Java SE 17.0.7`. Click the link labeled `Windows x64 Installer` to download the appropriate version for your PC.
 
 3c) To install Java, simply follow the instructions in the installer by clicking `Next` a few times. Java will then install. Once the installation is complete, you can close the installer. Java is ready.
 
@@ -83,7 +83,7 @@ Fabric is lightweight and is blossoming with new mods everyday. This section use
 
 ⚠️ The Windows download doesn't need Java to be installed on your system as it uses the version the launcher has. If you are experiencing issues with the Windows installer, choose the `Download Universal Jar` option and install Java if you haven't.
 
-4b) To install Fabric, double click the installer file in your downloads folder. The Fabric installer will open and display the latest version of the loader `(0.14.19)` and Minecraft (1.19.4) by default. Make sure the option on the top left is set to `Client`, then click the 'Install' button to begin the process.
+4b) To install Fabric, double click the installer file in your downloads folder. The Fabric installer will open and display the latest version of the loader `(0.14.21)` and Minecraft (1.20.1) by default. Make sure the option on the top left is set to `Client`, then click the 'Install' button to begin the process.
 
 4c) After you click `Install`, Fabric will begin the installation process and create a profile in the Minecraft launcher. This will allow you to easily access and launch the Fabric version of Minecraft from within the launcher.
 
@@ -99,10 +99,9 @@ You can download Fabric API [here](https://modrinth.com/mod/fabric-api)
 
 ⚠️ We are using modrinth as our mod download site. Its clean and easy to use. In the picture below, make sure the Minecraft version matches 1.19.4. The featured versions usually have the latest builds for each version.
 
-![image](https://user-images.githubusercontent.com/116324840/232229258-7c96a832-2dd2-4948-a7e3-fde4dc883805.png)
+![image](https://github.com/NorthernMagic/Ptera-Web-Guides/assets/116324840/d9121044-0aaa-4231-be96-ccbc44e88515)
 
-
-5a) Once you've downloaded the Fabric API `(0.78.0)` for 1.19.4 .jar file, move it to your desktop for easy access.
+5a) Once you've downloaded the Fabric API `(0.83.1)` for 1.20.1 .jar file, move it to your desktop for easy access.
 
 5b) Then, open File Explorer and navigate to the `mods` folder located at `C:\Users\<user>\AppData\Roaming\.minecraft\mods.` This is where you'll install the Fabric API and any other mods you want to use. If there is no `mods` folder, create one.
 
@@ -115,7 +114,6 @@ You can download Fabric API [here](https://modrinth.com/mod/fabric-api)
 * [Phosphor](https://modrinth.com/mod/phosphor)
 * [Iris Shaders](https://modrinth.com/mod/iris)
 * [FerriteCore](https://modrinth.com/mod/ferrite-core)
-* [LazyDFU](https://modrinth.com/mod/lazydfu)
 
 These mods listed above help with gameplay performance. The base game of Minecraft isn't that optimized, so these mods will help increase performance. 
 These mods especially give a boost to those on 'Low-End' hardware.
@@ -151,9 +149,9 @@ Optifine has the best shader compatibility out of the 2 shader mods, though Iris
 
 ⚠️ Depending on how recent the latest version of Minecraft is, there might be a preview version of Optifine. If there is no Optifine version, mainline or preview, just install Iris for now.
 
-1b) Once you found the Optifine download for `1.19.4`, click `Mirror` to download it without ads. 
+1b) Once you found the Optifine download for `1.20.1`, click `Mirror` to download it without ads. 
 
-1c) In the Optifine Installer, make sure it matches `1.19.4` and if it does, click `Install`. Optifine will now install onto your PC and create a profile in the Minecraft Launcher.
+1c) In the Optifine Installer, make sure it matches `1.20.1` and if it does, click `Install`. Optifine will now install onto your PC and create a profile in the Minecraft Launcher.
 
 #### ALLOCATING RAM TO OPTIFINE
 
@@ -205,11 +203,11 @@ The shader is now installed! Then close file explorer.
 
 [Sildurs Enhanced Default](https://www.curseforge.com/minecraft/customization/sildurs-enhanced-default)
 
-[Make Up UltraFast](https://www.curseforge.com/minecraft/customization/makeup-ultra-fast-shader)
+[Make Up UltraFast](https://modrinth.com/shader/makeup-ultra-fast-shaders)
 
-[SDV Shaders](https://www.curseforge.com/minecraft/customization/super-duper-vanilla-shaders)
+[SDV Shaders](https://modrinth.com/shader/super-duper-vanilla)
 
-[BSL](https://www.curseforge.com/minecraft/customization/bsl-shaders)
+[BSL](https://modrinth.com/shader/bsl-shaders)
 
 #### AMAZING RESOURCEPACKS TO TRY OUT
 
