@@ -1,9 +1,10 @@
 ---
 Title: Server News & Information
 Description: A guide explaining the latest in server news and info.
-Last Edit: 3/23/2023
+Last Edit: 6/16/2023
 ---
 
+# AWAITING SERVER UPDATES TO 1.20.1
 ## 📖 Table Of Contents
 
 * [Latest Server News](#latest-server-news)
