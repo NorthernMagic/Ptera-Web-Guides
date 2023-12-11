@@ -1,5 +1,10 @@
 # Ptera Web Guides README
 
+# OUTDATED | Not Maintained 
+
+This Guides Repo is not maintained anymore due to the Ptera community dying down, and there are 100 other guides that say the same thing.
+Always try to get firsthand guides from the developers themselves, as they will be the most up to date.
+
 This GitHub repo was made by me (Magic) so the guides can all be centralized. You are getting the latest versions
 of these guides, freshly right off the trunk. 
 
